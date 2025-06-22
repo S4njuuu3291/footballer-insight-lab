@@ -1,0 +1,474 @@
+age,agent,birth_date,career_stats_career_appearances,career_stats_career_assists,career_stats_career_goals,career_stats_career_minutes,citizenship,club,height,market_value,name,national_caps,national_goals,position,profile_url,season_stats_appearances,season_stats_assists,season_stats_goals,season_stats_minutes
+26,Team Raiola,"Feb 25, 1999",417,36,,37259,Italy,Paris SG,"1,96 m","€40.00m Jun 3, 2025",Gianluigi Donnarumma,74,0,Goalkeeper,https://www.transfermarkt.com/gianluigi-donnarumma/profil/spieler/315858,42,,,"3,742'"
+21,,"Nov 24, 2003",123,,6,9971,Brazil,Paris SG,"1,86 m","€25.00m Jun 3, 2025",Lucas Beraldo,,,Centre-Back,https://www.transfermarkt.com/lucas-beraldo/profil/spieler/872171,34,-,1,"2,541'"
+26,,"Feb 25, 1999",254,10,,22727,Russia,Paris SG,"1,92 m","€20.00m Jun 3, 2025",Matvey Safonov,14,0,Goalkeeper,https://www.transfermarkt.com/matvey-safonov/profil/spieler/318470,17,,,"1,508'"
+29,,"Aug 13, 1995",285,2,4,23626,France,Paris SG,"1,83 m","€5.00m Jun 3, 2025",Presnel Kimpembe,28,0,Centre-Back,https://www.transfermarkt.com/presnel-kimpembe/profil/spieler/282041,5,-,-,76'
+23,,"Oct 16, 2001",195,5,,16501,Ecuador,Paris SG,"1,87 m","€65.00m Jun 3, 2025",Willian Pacho,26,2,Centre-Back,https://www.transfermarkt.com/willian-pacho/profil/spieler/661171,54,2,-,"4,283'"
+31,Bertolucci Sports,"May 14, 1994",530,13,41,44008,Brazil,Paris SG,"1,83 m","€35.00m Jun 3, 2025",Marquinhos,99,7,Centre-Back,https://www.transfermarkt.com/marquinhos/profil/spieler/181767,43,-,3,"3,615'"
+19,Gestifute,"Mar 8, 2006",158,12,13,10221,France,Paris SG,"1,78 m","€55.00m Jun 3, 2025",Warren Zaïre-Emery,,,Central Midfield,https://www.transfermarkt.com/warren-zaire-emery/profil/spieler/810092,50,2,3,"3,028'"
+19,,"Sep 28, 2005",49,1,2,2735,Brazil,Paris SG,"1,85 m","€8.00m Jun 3, 2025",Gabriel Moscardo,9,1,Defensive Midfield,https://www.transfermarkt.com/gabriel-moscardo/profil/spieler/1086636,10,-,1,256'
+23,AS1,"Jun 19, 2002",195,23,11,14203,Portugal,Paris SG,"1,80 m","€70.00m Jun 3, 2025",Nuno Mendes,37,1,Left-Back,https://www.transfermarkt.com/nuno-mendes/profil/spieler/616341,48,6,6,"3,661'"
+29,,"Feb 14, 1996",321,15,7,23207,France,Paris SG,"1,84 m","€25.00m Jun 3, 2025",Lucas Hernández,39,0,Left-Back,https://www.transfermarkt.com/lucas-hernandez/profil/spieler/281963,27,-,-,"1,280'"
+24,,"Feb 12, 2001",251,61,59,17597,Georgia,Paris SG,"1,83 m","€90.00m Jun 3, 2025",Khvicha Kvaratskhelia,41,18,Left Winger,https://www.transfermarkt.com/khvicha-kvaratskhelia/profil/spieler/502670,46,11,12,"3,261'"
+29,YOU FIRST,"Apr 3, 1996",394,44,41,27396,Spain,Paris SG,"1,89 m","€40.00m Jun 3, 2025",Fabián Ruiz,,,Central Midfield,https://www.transfermarkt.com/fabian-ruiz/profil/spieler/350219,56,10,6,"3,589'"
+19,,"May 17, 2006",73,12,18,3893,France,Paris SG,"1,83 m","€15.00m Jun 3, 2025",Senny Mayulu,5,2,Central Midfield,https://www.transfermarkt.com/senny-mayulu/profil/spieler/903693,31,3,6,"1,149'"
+25,Gestifute,"Feb 13, 2000",256,24,33,16748,Portugal,Paris SG,"1,72 m","€80.00m Jun 3, 2025",Vitinha,29,0,Central Midfield,https://www.transfermarkt.com/vitinha/profil/spieler/487469,54,3,8,"4,071'"
+22,Gestifute,"Sep 2, 2002",188,46,44,11282,France,Paris SG,"1,82 m","€70.00m Jun 3, 2025",Bradley Barcola,14,2,Left Winger,https://www.transfermarkt.com/bradley-barcola/profil/spieler/708265,59,19,21,"3,678'"
+20,Gestifute,"Sep 27, 2004",167,17,10,10961,Portugal,Paris SG,"1,74 m","€80.00m Jun 3, 2025",João Neves,16,0,Defensive Midfield,https://www.transfermarkt.com/joao-neves/profil/spieler/670681,54,9,5,"3,885'"
+28,,"May 15, 1997",355,96,101,22685,France,Paris SG,"1,78 m","€90.00m Jun 3, 2025",Ousmane Dembélé,56,7,Right Winger,https://www.transfermarkt.com/ousmane-dembele/profil/spieler/288230,49,15,33,"3,290'"
+24,,"Feb 19, 2001",247,27,27,13486,South,Paris SG,"1,74 m","€25.00m Jun 3, 2025",Kang-in Lee,36,9,Right Winger,https://www.transfermarkt.com/kang-in-lee/profil/spieler/557149,47,6,7,"2,426'"
+24,Gestifute,"Jun 20, 2001",244,29,100,13745,Portugal,Paris SG,"1,85 m","€40.00m Jun 3, 2025",Gonçalo Ramos,16,9,Centre-Forward,https://www.transfermarkt.com/goncalo-ramos/profil/spieler/550550,43,6,18,"1,751'"
+17,,"Jan 24, 2008",47,22,16,2924,France,Paris SG U23,"1,75 m","€3.00m Jun 3, 2025",Ibrahim Mbaye,0,0,Right Winger,https://www.transfermarkt.com/ibrahim-mbaye/profil/spieler/1185888,23,8,7,"1,354'"
+20,,"Jun 3, 2005",154,24,26,8483,France,Paris SG,"1,81 m","€90.00m Jun 3, 2025",Désiré Doué,,,Right Winger,https://www.transfermarkt.com/desire-doue/profil/spieler/914562,56,16,15,"3,178'"
+28,,"Sep 21, 1996",414,18,22,30667,Germany,Monaco,"1,86 m","€20.00m Jun 3, 2025",Thilo Kehrer,28,0,Centre-Back,https://www.transfermarkt.com/thilo-kehrer/profil/spieler/228948,40,1,5,"3,474'"
+20,Classico,"Apr 18, 2005",75,,2,5328,France,Monaco,"1,84 m","€15.00m Jun 3, 2025",Christian Mawissa,4,0,Centre-Back,https://www.transfermarkt.com/christian-mawissa/profil/spieler/1005240,28,-,-,"1,797'"
+22,,"Mar 16, 2003",17,1,,1530,France,Monaco,"1,94 m","€100k Jun 3, 2025",Yann Lienard,3,0,Goalkeeper,https://www.transfermarkt.com/yann-lienard/profil/spieler/745341,1,,,90'
+20,,"Oct 14, 2004",91,5,3,5952,France,Monaco,"1,76 m","€7.00m Jun 3, 2025",Kassoum Ouattara,,,Left-Back,https://www.transfermarkt.com/kassoum-ouattara/profil/spieler/947360,16,1,-,526'
+27,Bertolucci Sports,"Jul 31, 1997",280,47,5,21434,Brazil,Monaco,"1,78 m","€15.00m Jun 3, 2025",Caio Henrique,,,Left-Back,https://www.transfermarkt.com/caio-henrique/profil/spieler/420064,38,6,-,"2,619'"
+26,CAA Stellar,"Apr 17, 1999",190,3,6,15765,Ghana,Monaco,"1,88 m","€12.00m Jun 3, 2025",Mohammed Salisu,13,2,Centre-Back,https://www.transfermarkt.com/mohammed-salisu/profil/spieler/563963,24,-,3,"1,705'"
+29,,"May 30, 1996",391,56,52,27095,Russia,Monaco,"1,78 m","€20.00m Jun 3, 2025",Aleksandr Golovin,47,6,Attacking Midfield,https://www.transfermarkt.com/aleksandr-golovin/profil/spieler/263918,29,1,3,"1,802'"
+29,Proeleven S.A.,"Apr 6, 1996",267,12,21,19851,Libya,Monaco,"1,89 m","€8.00m Jun 3, 2025",Moatasem Al-Musrati,40,2,Defensive Midfield,https://www.transfermarkt.com/moatasem-al-musrati/profil/spieler/377641,36,1,3,"2,227'"
+24,Bertolucci Sports,"Jun 21, 2001",184,18,13,13435,Brazil,Monaco,"1,73 m","€20.00m Jun 3, 2025",Vanderson,7,0,Right-Back,https://www.transfermarkt.com/vanderson/profil/spieler/789082,41,5,2,"3,120'"
+25,,"Sep 30, 1999",305,35,12,22762,Netherlands,Monaco,"1,83 m","€9.00m Jun 3, 2025",Jordan Teze,4,0,Right-Back,https://www.transfermarkt.com/jordan-teze/profil/spieler/364245,25,1,2,901'
+21,,"Oct 8, 2003",78,1,2,4765,France,Monaco,"1,90 m","€12.00m Jun 3, 2025",Soungoutou Magassa,6,0,Defensive Midfield,https://www.transfermarkt.com/soungoutou-magassa/profil/spieler/745181,31,1,1,"1,400'"
+20,,"Aug 28, 2004",27,,7,1026,France,Monaco,"1,85 m","€600k Jun 3, 2025",Edan Diop,0,0,Central Midfield,https://www.transfermarkt.com/edan-diop/profil/spieler/745178,-,-,-,0'
+23,,"Feb 25, 2002",116,20,19,7000,France,Monaco,"1,83 m","€45.00m Jun 3, 2025",Maghnes Akliouche,4,1,Right Winger,https://www.transfermarkt.com/maghnes-akliouche/profil/spieler/745200,43,12,7,"3,301'"
+23,,"Jul 3, 2001",221,33,114,14791,States,Monaco,"1,78 m","€18.00m Jun 3, 2025",Folarin Balogun,17,5,Centre-Forward,https://www.transfermarkt.com/folarin-balogun/profil/spieler/503770,16,1,4,706'
+30,,"Jan 16, 1995",448,69,116,26966,Japan,Monaco,"1,72 m","€15.00m Jun 3, 2025",Takumi Minamino,67,24,Left Winger,https://www.transfermarkt.com/takumi-minamino/profil/spieler/165793,43,5,9,"3,063'"
+22,ROOF,"Feb 8, 2003",161,37,81,11323,Denmark,Monaco,"1,87 m","€30.00m Jun 3, 2025",Mika Biereth,4,1,Centre-Forward,https://www.transfermarkt.com/mika-biereth/profil/spieler/565821,44,8,27,"3,337'"
+23,,"Nov 6, 2001",209,9,,18900,France,LOSC Lille,"1,89 m","€30.00m Jun 3, 2025",Lucas Chevalier,0,0,Goalkeeper,https://www.transfermarkt.com/lucas-chevalier/profil/spieler/463600,48,,,"4,350'"
+18,,"Aug 16, 2006",115,3,39,4401,Nigeria,Monaco,"1,85 m","€15.00m Jun 3, 2025",George Ilenikhena,,,Centre-Forward,https://www.transfermarkt.com/george-ilenikhena/profil/spieler/1004834,31,2,6,916'
+24,Classico,"Jan 6, 2001",206,3,24,16948,France,LOSC Lille,"1,84 m","€28.00m Jun 3, 2025",Bafodé Diakité,,,Centre-Back,https://www.transfermarkt.com/bafode-diakite/profil/spieler/463605,48,1,4,"4,282'"
+28,,"Feb 14, 1997",377,63,97,22757,Switzerland,Monaco,"1,87 m","€12.00m Jun 3, 2025",Breel Embolo,77,18,Centre-Forward,https://www.transfermarkt.com/breel-embolo/profil/spieler/237662,42,9,7,"2,765'"
+33,Wasserman,"Oct 22, 1991",453,16,25,37924,Algeria,LOSC Lille,"1,86 m","€1.20m Jun 3, 2025",Aïssa Mandi,102,6,Centre-Back,https://www.transfermarkt.com/aissa-mandi/profil/spieler/80293,31,-,-,"2,173'"
+31,AC Talent,"Nov 14, 1993",341,4,7,28473,France,LOSC Lille,"1,82 m","€1.50m Jun 3, 2025",Samuel Umtiti,31,4,Centre-Back,https://www.transfermarkt.com/samuel-umtiti/profil/spieler/126540,-,-,-,0'
+37,,"Mar 2, 1988",298,8,,26602,Italy,LOSC Lille,"1,88 m","€150k Jun 3, 2025",Vito Mannone,,,Goalkeeper,https://www.transfermarkt.com/vito-mannone/profil/spieler/33781,4,,,360'
+35,,"Jan 11, 1990",428,53,26,35183,Brazil,LOSC Lille,"1,77 m","€1.20m Jun 3, 2025",Ismaily,0,0,Left-Back,https://www.transfermarkt.com/ismaily/profil/spieler/124028,24,2,1,"1,295'"
+25,Team Raiola,"Jun 20, 2000",273,22,14,17998,Netherlands,LOSC Lille,"1,89 m","€7.00m Jun 3, 2025",Mitchel Bakker,21,0,Left-Back,https://www.transfermarkt.com/mitchel-bakker/profil/spieler/361065,37,3,4,"1,855'"
+33,Unique Sports Group,"Sep 12, 1991",483,60,40,35593,Belgium,LOSC Lille,"1,91 m","€2.00m Jun 3, 2025",Thomas Meunier,71,8,Right-Back,https://www.transfermarkt.com/thomas-meunier/profil/spieler/100986,46,1,2,"3,171'"
+30,,"Nov 24, 1994",312,25,32,22891,Algeria,LOSC Lille,"1,87 m","€6.00m Jun 3, 2025",Nabil Bentaleb,53,5,Defensive Midfield,https://www.transfermarkt.com/nabil-bentaleb/profil/spieler/245537,10,-,1,324'
+20,,"Nov 3, 2004",95,1,4,5997,Congo,LOSC Lille,"1,86 m","€15.00m Jun 3, 2025",Ngal'ayel Mukau,2,0,Defensive Midfield,https://www.transfermarkt.com/ngalayel-mukau/profil/spieler/1016015,37,1,2,"2,100'"
+34,,"Aug 3, 1990",638,38,32,51181,France,LOSC Lille,"1,80 m","€5.00m Jun 3, 2025",Benjamin André,7,0,Defensive Midfield,https://www.transfermarkt.com/benjamin-andre/profil/spieler/84301,45,4,-,"4,073'"
+17,,"Oct 2, 2007",70,3,,3629,France,LOSC Lille,"1,86 m","€28.00m Jun 3, 2025",Ayyoub Bouaddi,4,0,Central Midfield,https://www.transfermarkt.com/ayyoub-bouaddi/profil/spieler/1097139,36,2,-,"1,863'"
+18,,"Dec 29, 2006",79,9,14,4971,France,LOSC Lille,"1,80 m","€5.00m Jun 3, 2025",Ethan Mbappé,0,0,Central Midfield,https://www.transfermarkt.com/ethan-mbappe/profil/spieler/903666,14,-,-,327'
+22,CAA Stellar,"Apr 10, 2003",171,26,32,11064,Iceland,LOSC Lille,"1,78 m","€18.00m Jun 3, 2025",Hákon Arnar Haraldsson,22,3,Attacking Midfield,https://www.transfermarkt.com/hakon-arnar-haraldsson/profil/spieler/652275,38,4,8,"2,610'"
+24,ROOF,"Aug 31, 2000",242,40,45,17099,England,LOSC Lille,"1,66 m","€20.00m Jun 3, 2025",Angel Gomes,4,0,Attacking Midfield,https://www.transfermarkt.com/angel-gomes/profil/spieler/392770,20,1,2,"1,069'"
+31,Wasserman,"Jul 30, 1993",381,29,32,23719,Portugal,LOSC Lille,"1,90 m","€6.00m Jun 3, 2025",André Gomes,29,0,Central Midfield,https://www.transfermarkt.com/andre-gomes/profil/spieler/221025,24,-,1,"1,323'"
+26,,"Mar 31, 1999",210,38,42,11748,Kosovo,LOSC Lille,"1,80 m","€25.00m Jun 3, 2025",Edon Zhegrova,34,4,Right Winger,https://www.transfermarkt.com/edon-zhegrova/profil/spieler/496857,21,2,8,"1,591'"
+35,,"Mar 8, 1990",493,74,92,33511,France,LOSC Lille,"1,72 m","€2.50m Jun 3, 2025",Rémy Cabella,4,0,Attacking Midfield,https://www.transfermarkt.com/remy-cabella/profil/spieler/113707,37,4,2,"1,969'"
+24,,"Jun 11, 2001",199,33,27,13504,Morocco,LOSC Lille,"1,70 m","€12.00m Jun 3, 2025",Osame Sahraoui,2,0,Left Winger,https://www.transfermarkt.com/osame-sahraoui/profil/spieler/580657,46,6,5,"1,919'"
+25,Axia Sports ...,"Jan 14, 2000",315,45,146,23225,Canada,LOSC Lille,"1,78 m","€45.00m Jun 3, 2025",Jonathan David,64,34,Centre-Forward,https://www.transfermarkt.com/jonathan-david/profil/spieler/533738,49,12,25,"3,938'"
+27,GFM,"Apr 1, 1998",170,7,,15171,Netherlands,Marseille,"1,90 m","€2.00m Jun 3, 2025",Jeffrey de Lange,2,0,Goalkeeper,https://www.transfermarkt.com/jeffrey-de-lange/profil/spieler/315253,4,,,360'
+29,,"Oct 9, 1995",451,34,140,26139,England,LOSC Lille,"1,83 m","€7.00m Jun 3, 2025",Chuba Akpom,5,3,Centre-Forward,https://www.transfermarkt.com/chuba-akpom/profil/spieler/197642,48,2,11,"2,225'"
+20,,"Feb 3, 2005",97,6,18,6000,Spain,LOSC Lille,"1,88 m","€15.00m Jun 3, 2025",Matías Fernández-Pardo,0,0,Centre-Forward,https://www.transfermarkt.com/matias-fernandez-pardo/profil/spieler/724129,38,4,6,"1,805'"
+21,,"Mar 7, 2004",42,3,1,3745,Belgium,Marseille B,"1,91 m","€50k Jun 3, 2025",Jelle Van Neck,2,0,Goalkeeper,https://www.transfermarkt.com/jelle-van-neck/profil/spieler/727086,8,,,720'
+33,CAA Stellar,"May 20, 1992",398,34,,35664,Argentina,Marseille,"1,89 m","€8.00m Jun 3, 2025",Gerónimo Rulli,6,0,Goalkeeper,https://www.transfermarkt.com/geronimo-rulli/profil/spieler/229604,34,,,"3,060'"
+28,AIS Football,"Mar 22, 1997",227,5,3,17014,Italy,Marseille,"1,87 m","€5.00m Jun 3, 2025",Luiz Felipe,1,0,Centre-Back,https://www.transfermarkt.com/luiz-felipe/profil/spieler/457931,6,-,-,186'
+29,SEG,"Feb 11, 1996",304,30,23,24665,Panama,Marseille,"1,84 m","€10.00m Jun 3, 2025",Amir Murillo,85,9,Right-Back,https://www.transfermarkt.com/amir-murillo/profil/spieler/354482,32,3,1,"2,616'"
+29,ONEANDTEN,"Jan 11, 1996",332,45,17,22196,Switzerland,Marseille,"1,82 m","€5.00m Jun 3, 2025",Ulisses Garcia,,,Left-Back,https://www.transfermarkt.com/ulisses-garcia/profil/spieler/192616,22,3,2,995'
+27,Universal Twenty Two,"Aug 13, 1997",322,33,15,22384,Spain,Marseille,"1,83 m","€4.00m Jun 3, 2025",Pol Lirola,2,0,Right-Back,https://www.transfermarkt.com/pol-lirola/profil/spieler/298975,19,2,1,675'
+21,,"Nov 28, 2003",65,1,4,3811,Morocco,Marseille,"1,79 m","€5.00m Jun 3, 2025",Bilal Nadir,0,0,Central Midfield,https://www.transfermarkt.com/bilal-nadir/profil/spieler/659520,17,-,1,466'
+30,,"Apr 3, 1995",487,38,57,35411,France,Marseille,"1,91 m","€25.00m Jun 3, 2025",Adrien Rabiot,53,6,Central Midfield,https://www.transfermarkt.com/adrien-rabiot/profil/spieler/182913,31,6,10,"2,636'"
+29,,"Aug 5, 1995",472,35,32,34626,Denmark,Marseille,"1,85 m","€20.00m Jun 3, 2025",Pierre-Emile Højbjerg,88,11,Defensive Midfield,https://www.transfermarkt.com/pierre-emile-hojbjerg/profil/spieler/167799,32,4,3,"2,846'"
+17,,"Nov 30, 2007",46,3,10,3177,France,Marseille,"1,78 m","€200k Jun 3, 2025",Darryl Bakola,3,0,Attacking Midfield,https://www.transfermarkt.com/darryl-bakola/profil/spieler/1170286,15,1,2,960'
+23,,"Oct 1, 2001",248,34,111,17167,England,Marseille,"1,81 m","€40.00m Jun 3, 2025",Mason Greenwood,1,0,Right Winger,https://www.transfermarkt.com/mason-greenwood/profil/spieler/532826,36,6,22,"2,971'"
+25,,"Feb 16, 2000",264,38,86,17895,Algeria,Marseille,"1,81 m","€30.00m Jun 3, 2025",Amine Gouiri,12,5,Centre-Forward,https://www.transfermarkt.com/amine-gouiri/profil/spieler/418659,34,5,13,"2,179'"
+22,Unique Sports Group,"Apr 30, 2003",148,19,39,8015,England,Marseille,"1,73 m","€12.00m Jun 3, 2025",Jonathan Rowe,7,2,Left Winger,https://www.transfermarkt.com/jonathan-rowe/profil/spieler/672381,30,4,3,846'
+35,,"Jan 28, 1990",407,11,,36426,Sweden,R. Strasbourg,"1,88 m","€300k Jun 3, 2025",Karl-Johan Johnsson,9,0,Goalkeeper,https://www.transfermarkt.com/karl-johan-johnsson/profil/spieler/112822,7,,,630'
+23,,"Jan 1, 2002",56,6,,4868,Morocco,R. Strasbourg,"1,89 m","€400k Jun 3, 2025",Alaa Bellaarouch,8,0,Goalkeeper,https://www.transfermarkt.com/alaa-bellaarouch/profil/spieler/667991,3,,,270'
+22,Epic Sylla,"Dec 25, 2002",77,1,5,5282,d'Ivoire,R. Strasbourg,"1,88 m","€10.00m Jun 3, 2025",Abakar Sylla,0,0,Centre-Back,https://www.transfermarkt.com/abakar-sylla/profil/spieler/962555,24,-,1,"1,170'"
+28,,"Aug 14, 1996",399,36,106,24294,France,Marseille,"1,71 m","€8.00m Jun 3, 2025",Neal Maupay,2,1,Centre-Forward,https://www.transfermarkt.com/neal-maupay/profil/spieler/217115,24,4,4,"1,178'"
+22,,"Jun 23, 2002",131,1,7,10261,Ireland,R. Strasbourg,"1,88 m","€8.00m Jun 3, 2025",Andrew Omobamidele,10,0,Centre-Back,https://www.transfermarkt.com/andrew-omobamidele/profil/spieler/621993,12,-,-,672'
+19,,"Sep 23, 2005",73,1,7,6164,France,R. Strasbourg,"1,86 m","€700k Jun 3, 2025",Yoni Gomis,6,0,Centre-Back,https://www.transfermarkt.com/yoni-gomis/profil/spieler/988272,15,1,1,"1,324'"
+22,,"Oct 17, 2002",91,6,1,6568,d'Ivoire,R. Strasbourg,"1,87 m","€18.00m Jun 3, 2025",Guéla Doué,5,1,Right-Back,https://www.transfermarkt.com/guela-doue/profil/spieler/711980,34,2,1,"2,896'"
+33,,"Mar 24, 1992",274,18,6,21548,France,R. Strasbourg,"1,80 m","€600k Jun 3, 2025",Thomas Delaine,,,Left-Back,https://www.transfermarkt.com/thomas-delaine/profil/spieler/170961,2,-,-,8'
+25,Unique Sports Group,"Oct 8, 1999",197,12,,17706,Serbia,R. Strasbourg,"1,94 m","€20.00m Jun 3, 2025",Djordje Petrovic,7,0,Goalkeeper,https://www.transfermarkt.com/djordje-petrovic/profil/spieler/465555,31,,,"2,790'"
+30,ProStar,"Apr 20, 1995",341,27,10,22625,Ukraine,R. Strasbourg,"1,86 m","€900k Jun 3, 2025",Eduard Sobol,29,0,Left-Back,https://www.transfermarkt.com/eduard-sobol/profil/spieler/206717,13,1,-,336'
+20,,"Jul 23, 2004",69,7,1,4780,Argentina,R. Strasbourg,"1,70 m","€12.00m Jun 3, 2025",Valentín Barco,1,0,Central Midfield,https://www.transfermarkt.com/valentin-barco/profil/spieler/849410,24,3,-,"1,665'"
+21,Carmenta,"Jan 3, 2004",116,10,14,8010,Senegal,R. Strasbourg,"1,78 m","€20.00m Jun 3, 2025",Habib Diarra,4,0,Central Midfield,https://www.transfermarkt.com/habib-diarra/profil/spieler/876631,33,5,4,"2,438'"
+19,CANTERA LATINA / ...,"Sep 27, 2005",64,6,10,3369,Colombia,R. Strasbourg,"1,74 m","€2.00m Jun 3, 2025",Óscar Perea,4,0,Left Winger,https://www.transfermarkt.com/oscar-perea/profil/spieler/1015624,10,1,2,689'
+19,BS Group ...,"May 28, 2006",27,1,1,1802,France,R. Strasbourg B,"1,76 m",,Tidiane Diallo,6,0,Attacking Midfield,https://www.transfermarkt.com/tidiane-diallo/profil/spieler/1047100,12,1,-,942'
+18,Two Touch Agency,"Jul 18, 2006",76,11,21,5104,England,R. Strasbourg,"1,74 m","€4.00m Jun 3, 2025",Samuel Amo-Ameyaw,9,0,Right Winger,https://www.transfermarkt.com/samuel-amo-ameyaw/profil/spieler/933900,20,1,5,"1,051'"
+22,Team Emegha,"Feb 3, 2003",158,13,50,9930,Netherlands,R. Strasbourg,"1,96 m","€25.00m Jun 3, 2025",Emanuel Emegha,9,3,Centre-Forward,https://www.transfermarkt.com/emanuel-emegha/profil/spieler/559328,29,3,14,"2,408'"
+21,,"Aug 7, 2003",100,11,9,6251,France,R. Strasbourg,"1,80 m","€10.00m Jun 3, 2025",Félix Lemaréchal,3,0,Attacking Midfield,https://www.transfermarkt.com/felix-lemarechal/profil/spieler/659518,32,4,5,"2,027'"
+22,BS Group ...,"Jul 30, 2002",143,10,27,5098,France,R. Strasbourg,"1,83 m","€5.00m Jun 3, 2025",Sékou Mara,4,1,Centre-Forward,https://www.transfermarkt.com/sekou-mara/profil/spieler/557612,28,1,3,970'
+24,,"Apr 9, 2001",23,1,,2070,Algeria,OGC Nice,"1,85 m","€50k Jun 3, 2025",Teddy Boulhendi,0,0,Goalkeeper,https://www.transfermarkt.com/teddy-boulhendi/profil/spieler/789419,-,,,0'
+32,SVF FOOT,"Mar 4, 1993",241,6,,21759,France,OGC Nice,"1,88 m","€900k Jun 3, 2025",Maxime Dupé,0,0,Goalkeeper,https://www.transfermarkt.com/maxime-dupe/profil/spieler/127188,5,,,450'
+22,Sport Cover,"Aug 26, 2002",140,28,18,9229,France,R. Strasbourg,"1,80 m","€25.00m Jun 3, 2025",Dilane Bakwa,6,0,Right Winger,https://www.transfermarkt.com/dilane-bakwa/profil/spieler/540664,31,9,6,"2,518'"
+25,,"Oct 4, 1999",136,5,,12231,Poland,OGC Nice,"1,99 m","€20.00m Jun 3, 2025",Marcin Bulka,5,0,Goalkeeper,https://www.transfermarkt.com/marcin-bulka/profil/spieler/465955,40,,,"3,600'"
+26,FutureBall,"Oct 27, 1998",172,8,16,12832,Burundi,OGC Nice,"1,83 m","€12.00m Jun 3, 2025",Youssouf Ndayishimiye,25,1,Centre-Back,https://www.transfermarkt.com/youssouf-ndayishimiye/profil/spieler/674612,29,-,3,"2,328'"
+25,Axia Sports ...,"Mar 30, 2000",73,,2,5813,Canada,OGC Nice,"1,90 m","€10.00m Jun 3, 2025",Moïse Bombito,19,0,Centre-Back,https://www.transfermarkt.com/moise-bombito/profil/spieler/1089202,35,-,-,"2,915'"
+41,,"Oct 18, 1983",735,27,29,63607,Brazil,OGC Nice,"1,88 m","€500k Jun 3, 2025",Dante,13,2,Centre-Back,https://www.transfermarkt.com/dante/profil/spieler/16136,28,-,-,"2,212'"
+17,,"Aug 5, 2007",22,,1,1615,France,OGC Nice,"1,82 m","€200k Jun 3, 2025",Amidou Doumbouya,4,1,Centre-Back,https://www.transfermarkt.com/amidou-doumbouya/profil/spieler/1075574,19,-,1,"1,459'"
+26,,"Feb 1, 1999",173,,10,14739,Egypt,OGC Nice,"1,83 m","€4.00m Jun 3, 2025",Mohamed Abdelmonem,,,Centre-Back,https://www.transfermarkt.com/mohamed-abdelmonem/profil/spieler/566025,18,-,-,"1,395'"
+32,UTOPIA,"Sep 25, 1992",396,74,45,30935,France,OGC Nice,"1,78 m","€5.00m Jun 3, 2025",Jonathan Clauss,14,2,Right-Back,https://www.transfermarkt.com/jonathan-clauss/profil/spieler/175639,38,11,3,"2,863'"
+31,Scuderia,"Dec 20, 1993",316,23,44,24362,Tunisia,OGC Nice,"1,83 m","€3.00m Jun 3, 2025",Ali Abdi,36,4,Left-Back,https://www.transfermarkt.com/ali-abdi/profil/spieler/211474,33,2,5,"1,789'"
+19,Darren Dein,"Jul 6, 2005",46,,1,3406,France,OGC Nice,"1,85 m","€150k Jun 3, 2025",Yaël Nandjou,,,Left-Back,https://www.transfermarkt.com/yael-nandjou/profil/spieler/984699,8,-,-,469'
+24,CAA Stellar,"Nov 6, 2000",217,10,6,16191,France,OGC Nice,"1,73 m","€15.00m Jun 3, 2025",Melvin Bard,1,0,Left-Back,https://www.transfermarkt.com/melvin-bard/profil/spieler/532775,32,1,2,"2,462'"
+21,Wasserman,"May 27, 2004",69,1,2,3925,Senegal,OGC Nice,"1,87 m","€2.50m Jun 3, 2025",Antoine Mendy,2,0,Right-Back,https://www.transfermarkt.com/antoine-mendy/profil/spieler/891998,23,-,-,"1,225'"
+28,LIAN Sports Group,"Jan 3, 1997",356,33,52,20748,d'Ivoire,OGC Nice,"1,72 m","€10.00m Jun 3, 2025",Jérémie Boga,21,2,Left Winger,https://www.transfermarkt.com/jeremie-boga/profil/spieler/216569,24,1,3,"1,196'"
+25,,"Jun 9, 2000",221,21,30,12370,Morocco,OGC Nice,"1,75 m","€10.00m Jun 3, 2025",Sofiane Diop,0,0,Left Winger,https://www.transfermarkt.com/sofiane-diop/profil/spieler/569389,38,8,6,"1,663'"
+28,,"Jan 7, 1997",371,22,20,27432,Republic,OGC Nice,"1,85 m","€8.00m Jun 3, 2025",Pablo Rosario,2,0,Defensive Midfield,https://www.transfermarkt.com/pablo-rosario/profil/spieler/370791,35,1,4,"2,296'"
+28,,"Dec 28, 1996",329,38,21,18967,France,OGC Nice,"1,81 m","€7.00m Jun 3, 2025",Tanguy Ndombélé,7,0,Central Midfield,https://www.transfermarkt.com/tanguy-ndombele/profil/spieler/450936,25,2,2,"1,407'"
+30,,"Aug 18, 1994",374,42,50,26297,France,OGC Nice,"1,80 m","€5.00m Jun 3, 2025",Morgan Sanson,10,2,Central Midfield,https://www.transfermarkt.com/morgan-sanson/profil/spieler/174094,6,-,3,234'
+25,,"Sep 23, 1999",217,16,14,14798,Algeria,OGC Nice,"1,75 m","€15.00m Jun 3, 2025",Hicham Boudaoui,19,0,Central Midfield,https://www.transfermarkt.com/hicham-boudaoui/profil/spieler/560593,36,4,2,"2,884'"
+20,Classico,"Dec 8, 2004",108,11,16,5553,Algeria,OGC Nice,"1,77 m","€7.00m Jun 3, 2025",Badredine Bouanani,5,0,Right Winger,https://www.transfermarkt.com/badredine-bouanani/profil/spieler/707242,37,3,5,"1,813'"
+20,Wasserman,"Nov 20, 2004",211,38,162,11698,Germany,OGC Nice,"1,79 m","€10.00m Jun 3, 2025",Youssoufa Moukoko,15,13,Centre-Forward,https://www.transfermarkt.com/youssoufa-moukoko/profil/spieler/467720,22,3,2,816'
+26,,"May 25, 1999",198,12,83,14242,Nigeria,OGC Nice,"1,88 m","€15.00m Jun 3, 2025",Terem Moffi,,,Centre-Forward,https://www.transfermarkt.com/terem-moffi/profil/spieler/538874,5,-,1,53'
+21,Sparka Management,"Jan 19, 2004",151,12,13,6558,France,OGC Nice,"1,82 m","€15.00m Jun 3, 2025",Mohamed-Ali Cho,7,0,Right Winger,https://www.transfermarkt.com/mohamed-ali-cho/profil/spieler/670847,35,4,5,"1,968'"
+31,Sport Cover,"Apr 25, 1994",322,33,,29148,France,Stade Rennais,"1,87 m","€12.00m Jun 3, 2025",Brice Samba,3,0,Goalkeeper,https://www.transfermarkt.com/brice-samba/profil/spieler/191056,35,,,"3,150'"
+25,HD,"Nov 2, 1999",213,5,8,17381,France,Stade Rennais,"1,86 m","€10.00m Jun 3, 2025",Lilian Brassier,5,0,Centre-Back,https://www.transfermarkt.com/lilian-brassier/profil/spieler/485960,26,1,1,"2,016'"
+22,FutureBall,"Oct 29, 2002",132,10,,11649,Türkiye,Stade Rennais,"1,92 m","€1.50m Jun 3, 2025",Doğan Alemdar,2,0,Goalkeeper,https://www.transfermarkt.com/dogan-alemdar/profil/spieler/576033,3,,,270'
+31,,"May 3, 1994",437,48,137,31172,France,OGC Nice,"1,81 m","€6.00m Jun 3, 2025",Gaëtan Laborde,5,0,Centre-Forward,https://www.transfermarkt.com/gaetan-laborde/profil/spieler/181378,36,5,11,"2,330'"
+40,,"Mar 28, 1985",797,25,,71352,France,Stade Rennais,"1,87 m","€500k Jun 3, 2025",Steve Mandanda,35,0,Goalkeeper,https://www.transfermarkt.com/steve-mandanda/profil/spieler/23951,18,,,"1,486'"
+32,Kemari,"Apr 23, 1993",222,20,,19840,France,Stade Rennais,"1,87 m","€800k Jun 3, 2025",Gauthier Gallon,,,Goalkeeper,https://www.transfermarkt.com/gauthier-gallon/profil/spieler/193256,2,,,135'
+19,,"Jan 14, 2006",5,,,48,Nigeria,OGC Nice,"1,94 m","€400k Jun 3, 2025",Victor Orakpo,,,Centre-Forward,https://www.transfermarkt.com/victor-orakpo/profil/spieler/1231401,5,-,-,48'
+20,Niagara Sports ...,"Jul 14, 2004",61,1,5,4975,Senegal,Stade Rennais,"1,83 m","€6.00m Jun 3, 2025",Mikayil Faye,1,1,Centre-Back,https://www.transfermarkt.com/mikayil-faye/profil/spieler/666974,12,-,-,779'
+25,,"Jun 4, 2000",125,3,,8517,Ghana,Stade Rennais,"1,73 m","€9.00m Jun 3, 2025",Alidu Seidu,15,0,Centre-Back,https://www.transfermarkt.com/alidu-seidu/profil/spieler/798404,11,-,-,807'
+19,One Team Football,"Jul 13, 2005",78,3,7,6238,France,Stade Rennais,"1,90 m","€10.00m Jun 3, 2025",Jérémy Jacquet,2,0,Centre-Back,https://www.transfermarkt.com/jeremy-jacquet/profil/spieler/1004301,29,2,2,"2,479'"
+19,,"Jun 28, 2005",31,,3,1378,Cameroon,Stade Rennais,"1,76 m","€800k Jun 3, 2025",Mahamadou Nagida,2,0,Left-Back,https://www.transfermarkt.com/mahamadou-nagida/profil/spieler/1176345,17,-,2,681'
+23,CAA Stellar,"Nov 20, 2001",212,23,10,14593,France,Stade Rennais,"1,76 m","€15.00m Jun 3, 2025",Adrien Truffert,,,Left-Back,https://www.transfermarkt.com/adrien-truffert/profil/spieler/654539,35,2,3,"2,927'"
+23,Sport Cover,"Sep 18, 2001",103,3,6,7501,Cameroon,Stade Rennais,"1,91 m","€6.00m Jun 3, 2025",Christopher Wooh,21,2,Centre-Back,https://www.transfermarkt.com/christopher-wooh/profil/spieler/572326,21,-,-,"1,531'"
+25,,"Jun 22, 2000",155,16,12,10122,France,Stade Rennais,"1,81 m","€9.00m Jun 3, 2025",Lorenz Assignon,,,Right-Back,https://www.transfermarkt.com/lorenz-assignon/profil/spieler/711969,34,5,4,"2,535'"
+27,,"Apr 28, 1998",271,11,3,20332,Netherlands,Stade Rennais,"1,73 m","€8.00m Jun 3, 2025",Azor Matusiwa,,,Defensive Midfield,https://www.transfermarkt.com/azor-matusiwa/profil/spieler/315145,31,4,1,"2,258'"
+30,Sport Cover,"May 7, 1995",397,36,52,29926,d'Ivoire,Stade Rennais,"1,85 m","€10.00m Jun 3, 2025",Seko Fofana,22,7,Central Midfield,https://www.transfermarkt.com/seko-fofana/profil/spieler/182893,32,1,1,"1,993'"
+20,Unique Sports Group,"Jul 2, 2004",143,3,12,7599,Wales,Stade Rennais,"1,82 m","€8.00m Jun 3, 2025",Jordan James,20,0,Central Midfield,https://www.transfermarkt.com/jordan-james/profil/spieler/667517,25,1,1,"1,351'"
+21,,"Jan 31, 2004",98,7,16,7671,France,Stade Rennais,"1,88 m","€8.00m Jun 3, 2025",Djaoui Cissé,3,2,Central Midfield,https://www.transfermarkt.com/djaoui-cisse/profil/spieler/931160,22,-,1,"1,695'"
+23,Axia Sports ...,"Jun 16, 2002",117,10,10,6834,Canada,Stade Rennais,"1,88 m","€9.00m Jun 3, 2025",Ismaël Koné,30,3,Central Midfield,https://www.transfermarkt.com/ismael-kone/profil/spieler/921655,22,1,2,852'
+20,,"Feb 2, 2005",76,2,20,5056,Belgium,Stade Rennais,"1,69 m","€1.50m Jun 3, 2025",Ayanda Sishuba,10,3,Attacking Midfield,https://www.transfermarkt.com/ayanda-sishuba/profil/spieler/977877,3,-,-,119'
+27,Sport Cover,"Dec 31, 1997",357,39,65,24598,France,Stade Rennais,"1,80 m","€18.00m Jun 3, 2025",Ludovic Blas,14,1,Right Winger,https://www.transfermarkt.com/ludovic-blas/profil/spieler/288225,31,9,6,"2,466'"
+28,,"Jun 10, 1997",228,24,37,16593,Jordan,Stade Rennais,"1,78 m","€6.00m Jun 3, 2025",Mousa Tamari,70,21,Right Winger,https://www.transfermarkt.com/mousa-tamari/profil/spieler/551505,27,1,3,"1,776'"
+23,,"Mar 29, 2002",128,6,9,6786,France,Stade Rennais,"1,83 m","€3.50m Jun 3, 2025",Naouirou Ahamada,3,1,Central Midfield,https://www.transfermarkt.com/naouirou-ahamada/profil/spieler/538971,6,-,-,161'
+22,,"Jan 2, 2003",190,20,40,11455,Belgium,Stade Rennais,"1,78 m","€5.00m Jun 3, 2025",Kazeem Olaigbe,13,4,Left Winger,https://www.transfermarkt.com/kazeem-olaigbe/profil/spieler/565406,41,3,8,"1,868'"
+27,LEFT Sports,"Dec 10, 1997",174,9,,15530,Brazil,Olympique Lyon,"1,97 m","€10.00m Jun 3, 2025",Lucas Perri,,,Goalkeeper,https://www.transfermarkt.com/lucas-perri/profil/spieler/352041,45,,,"4,080'"
+23,,"Jan 20, 2002",221,25,101,14679,France,Stade Rennais,"1,75 m","€22.00m Jun 3, 2025",Arnaud Kalimuendo,4,2,Centre-Forward,https://www.transfermarkt.com/arnaud-kalimuendo/profil/spieler/585959,34,4,18,"2,681'"
+28,,"Jun 25, 1996",169,10,,15033,France,Olympique Lyon,"1,96 m","€1.20m Jun 3, 2025",Rémy Descamps,0,0,Goalkeeper,https://www.transfermarkt.com/remy-descamps/profil/spieler/282028,4,,,360'
+21,,"Mar 30, 2004",96,3,48,6946,Mali,Stade Rennais,"1,82 m","€100k Jun 3, 2025",Wilson Samaké,3,1,Centre-Forward,https://www.transfermarkt.com/wilson-samake/profil/spieler/910192,13,1,3,807'
+30,,"Jan 20, 1995",353,55,151,25640,Japan,Stade Rennais,"1,70 m","€9.00m Jun 3, 2025",Kyogo Furuhashi,23,5,Centre-Forward,https://www.transfermarkt.com/kyogo-furuhashi/profil/spieler/489463,38,4,12,"2,146'"
+22,Wasserman,"Sep 12, 2002",143,21,31,8419,Colombia,Stade Rennais,"1,71 m","€4.00m Jun 3, 2025",Carlos Andrés Gómez,4,2,Right Winger,https://www.transfermarkt.com/carlos-andres-gomez/profil/spieler/957461,19,-,3,393'
+17,,"Oct 11, 2007",56,1,20,3745,France,Stade Rennais,"1,92 m","€5.00m Jun 3, 2025",Mohamed Kader Meïté,3,0,Centre-Forward,https://www.transfermarkt.com/mohamed-kader-meite/profil/spieler/1141560,30,-,14,"1,874'"
+22,,"Nov 11, 2002",23,,,2015,Mali,Olymp. Lyon B,"1,90 m","€50k Jun 3, 2025",Lassine Diarra,0,0,Goalkeeper,https://www.transfermarkt.com/lassine-diarra/profil/spieler/1071430,5,,,450'
+25,ADM Esporte,"May 27, 2000",234,21,7,17130,Brazil,Olympique Lyon,"1,81 m","€7.00m Jun 3, 2025",Abner,4,0,Left-Back,https://www.transfermarkt.com/abner/profil/spieler/646402,27,1,2,"1,627'"
+32,,"Nov 7, 1992",460,35,9,34286,Angola,Olympique Lyon,"1,80 m","€3.50m Jun 3, 2025",Clinton Mata,12,0,Centre-Back,https://www.transfermarkt.com/clinton-mata/profil/spieler/187718,40,4,-,"3,278'"
+29,CAA Stellar,"Mar 8, 1996",331,9,11,27643,Senegal,Olympique Lyon,"1,90 m","€15.00m Jun 3, 2025",Moussa Niakhaté,12,0,Centre-Back,https://www.transfermarkt.com/moussa-niakhate/profil/spieler/291200,42,-,-,"3,657'"
+25,,"Apr 23, 2000",124,2,2,10370,Comoros,Olympique Lyon,"1,88 m","€3.00m Jun 3, 2025",Warmed Omari,6,0,Centre-Back,https://www.transfermarkt.com/warmed-omari/profil/spieler/711996,4,-,-,277'
+28,ROOF,"Sep 17, 1996",388,11,15,32553,Croatia,Olympique Lyon,"1,93 m","€7.00m Jun 3, 2025",Duje Caleta-Car,33,1,Centre-Back,https://www.transfermarkt.com/duje-caleta-car/profil/spieler/238266,28,1,1,"2,198'"
+27,Tier One,"Aug 29, 1997",361,32,12,24063,England,Olympique Lyon,"1,80 m","€12.00m Jun 3, 2025",Ainsley Maitland-Niles,5,0,Right-Back,https://www.transfermarkt.com/ainsley-maitland-niles/profil/spieler/285845,44,7,1,"3,000'"
+23,,"Sep 24, 2001",178,6,12,11413,States,Olympique Lyon,"1,88 m","€6.00m Jun 3, 2025",Tanner Tessmann,8,0,Defensive Midfield,https://www.transfermarkt.com/tanner-tessmann/profil/spieler/670096,35,-,1,"1,840'"
+20,,"Mar 26, 2005",96,6,1,6498,France,Olympique Lyon,"1,75 m","€7.00m Jun 3, 2025",Saël Kumbedi,6,0,Right-Back,https://www.transfermarkt.com/sael-kumbedi/profil/spieler/951579,19,-,-,"1,195'"
+27,,"Dec 20, 1997",129,6,4,7645,d'Ivoire,Olympique Lyon,"1,81 m","€800k Jun 3, 2025",Paul Akouokou,,,Defensive Midfield,https://www.transfermarkt.com/paul-akouokou/profil/spieler/429901,5,-,-,125'
+32,CAA Stellar,"Aug 31, 1992",478,40,30,39718,Argentina,Olympique Lyon,"1,71 m","€6.00m Jun 3, 2025",Nicolás Tagliafico,70,1,Left-Back,https://www.transfermarkt.com/nicolas-tagliafico/profil/spieler/131225,33,3,5,"2,652'"
+30,,"Aug 3, 1994",388,45,63,26775,France,Olympique Lyon,"1,81 m","€12.00m Jun 3, 2025",Corentin Tolisso,28,2,Central Midfield,https://www.transfermarkt.com/corentin-tolisso/profil/spieler/190393,46,9,10,"3,347'"
+24,VV Consulting,"Oct 31, 2000",195,28,99,14228,Georgia,Olympique Lyon,"1,76 m","€22.00m Jun 3, 2025",Georges Mikautadze,37,20,Centre-Forward,https://www.transfermarkt.com/georges-mikautadze/profil/spieler/729814,47,11,17,"2,189'"
+32,VV Consulting,"Mar 1, 1993",557,64,68,42380,France,Olympique Lyon,"1,77 m","€4.00m Jun 3, 2025",Jordan Veretout,6,0,Central Midfield,https://www.transfermarkt.com/jordan-veretout/profil/spieler/164771,38,1,2,"2,122'"
+34,,"May 28, 1991",597,90,272,42118,France,Olympique Lyon,"1,75 m","€6.00m Jun 3, 2025",Alexandre Lacazette,3,2,Centre-Forward,https://www.transfermarkt.com/alexandre-lacazette/profil/spieler/93720,42,3,19,"2,706'"
+19,,"Apr 11, 2006",27,,,1916,Leone,Lens,"1,95 m","€6.00m Jun 3, 2025",Juma Bah,2,0,Centre-Back,https://www.transfermarkt.com/juma-bah/profil/spieler/1121298,24,-,-,"1,729'"
+17,,"Sep 18, 2007",27,2,7,1763,France,Olymp. Lyon B,,"€100k Jun 3, 2025",Enzo Molebe,8,3,Centre-Forward,https://www.transfermarkt.com/enzo-molebe/profil/spieler/1106860,15,2,3,"1,040'"
+26,,"May 28, 1999",202,11,9,17199,Argentina,Lens,"1,84 m","€25.00m Jun 3, 2025",Facundo Medina,7,0,Centre-Back,https://www.transfermarkt.com/facundo-medina/profil/spieler/474800,31,1,-,"2,659'"
+37,,"May 24, 1988",210,7,,18655,Slovenia,Lens,"1,86 m","€100k Jun 3, 2025",Denis Petric,1,0,Goalkeeper,https://www.transfermarkt.com/denis-petric/profil/spieler/28356,-,,,0'
+26,,"Jan 23, 1999",221,3,5,16855,France,Lens,"1,83 m","€5.00m Jun 3, 2025",Malang Sarr,6,0,Centre-Back,https://www.transfermarkt.com/malang-sarr/profil/spieler/344596,23,-,-,"1,454'"
+33,,"Apr 8, 1992",468,20,,42360,Australia,Lens,"1,84 m","€2.50m Jun 3, 2025",Mathew Ryan,96,0,Goalkeeper,https://www.transfermarkt.com/mathew-ryan/profil/spieler/128969,15,,,"1,350'"
+28,,"Oct 16, 1996",187,18,,16759,Faso,Lens,"1,86 m","€1.20m Jun 3, 2025",Hervé Koffi,,,Goalkeeper,https://www.transfermarkt.com/herve-koffi/profil/spieler/415383,8,,,720'
+31,Wasserman,"Sep 2, 1993",323,28,15,24524,Colombia,Lens,"1,80 m","€3.00m Jun 3, 2025",Deiver Machado,11,0,Left-Back,https://www.transfermarkt.com/deiver-machado/profil/spieler/332560,30,4,1,"2,056'"
+32,,"Nov 24, 1992",358,8,3,30696,France,Lens,"1,80 m","€4.00m Jun 3, 2025",Jonathan Gradit,,,Centre-Back,https://www.transfermarkt.com/jonathan-gradit/profil/spieler/126557,27,-,-,"2,293'"
+21,DUKASO SPORTS,"Nov 14, 2003",69,3,5,3974,Nigeria,Lens,"1,79 m","€1.80m Jun 3, 2025",Hamzat Ojediran,0,0,Defensive Midfield,https://www.transfermarkt.com/hamzat-ojediran/profil/spieler/718312,23,-,2,886'
+23,,"Apr 25, 2002",146,6,11,8362,Ecuador,Lens,"1,82 m","€3.50m Jun 3, 2025",Jhoanner Chávez,6,0,Left-Back,https://www.transfermarkt.com/jhoanner-chavez/profil/spieler/713787,13,-,1,620'
+18,,"Jul 17, 2006",101,2,6,8528,Bosnia-Herzegovina,Lens,"1,92 m","€1.80m Jun 3, 2025",Nidal Celik,5,0,Centre-Back,https://www.transfermarkt.com/nidal-celik/profil/spieler/819566,22,2,-,"1,911'"
+32,One Team Football,"Apr 26, 1993",335,28,7,25674,France,Lens,"1,72 m","€3.50m Jun 3, 2025",Ruben Aguilar,1,0,Right-Back,https://www.transfermarkt.com/ruben-aguilar/profil/spieler/203746,16,3,1,"1,129'"
+31,One Team Football,"Dec 10, 1993",417,53,64,29515,France,Lens,"1,75 m","€5.00m Jun 3, 2025",Adrien Thomasson,,,Attacking Midfield,https://www.transfermarkt.com/adrien-thomasson/profil/spieler/215977,36,7,3,"2,894'"
+32,,"Jun 23, 1992",375,9,2,27384,Senegal,Lens,"1,68 m","€1.80m Jun 3, 2025",Nampalys Mendy,32,0,Defensive Midfield,https://www.transfermarkt.com/nampalys-mendy/profil/spieler/111051,11,1,-,591'
+23,,"Jul 2, 2001",130,8,17,9185,Morocco,Lens,"1,85 m","€15.00m Jun 3, 2025",Neil El Aynaoui,1,0,Central Midfield,https://www.transfermarkt.com/neil-el-aynaoui/profil/spieler/901019,26,1,8,"1,722'"
+22,,"May 17, 2003",144,12,6,9156,France,Lens,"1,87 m","€15.00m Jun 3, 2025",Andy Diouf,9,0,Central Midfield,https://www.transfermarkt.com/andy-diouf/profil/spieler/711976,37,2,1,"2,504'"
+28,,"Aug 20, 1996",350,24,42,22451,France,Lens,"1,82 m","€5.00m Jun 3, 2025",Angelo Fulgini,3,0,Attacking Midfield,https://www.transfermarkt.com/angelo-fulgini/profil/spieler/250013,25,1,1,"1,137'"
+28,,"Aug 18, 1996",282,24,75,18617,Angola,Lens,"1,85 m","€6.00m Jun 3, 2025",M'Bala Nzola,6,2,Centre-Forward,https://www.transfermarkt.com/mbala-nzola/profil/spieler/354814,24,1,7,"1,634'"
+19,11MANGMT,"Oct 24, 2005",34,4,6,1881,Sweden,Lens,"1,78 m","€5.00m Jun 3, 2025",Jeremy Agbonifo,2,0,Right Winger,https://www.transfermarkt.com/jeremy-agbonifo/profil/spieler/1057820,17,2,4,756'
+34,One Team Football,"Oct 25, 1990",331,39,72,25752,France,Lens,"1,87 m","€2.00m Jun 3, 2025",Florian Sotoca,,,Centre-Forward,https://www.transfermarkt.com/florian-sotoca/profil/spieler/354726,34,2,1,"1,980'"
+25,Wasserman,"Feb 15, 2000",173,11,63,10576,Republic,Lens,"1,84 m","€2.50m Jun 3, 2025",Goduine Koyalipou,7,1,Centre-Forward,https://www.transfermarkt.com/goduine-koyalipou/profil/spieler/525140,32,2,19,"2,226'"
+24,All Iron Sports,"Feb 20, 2001",134,15,28,7993,Uruguay,Lens,"1,87 m","€5.00m Jun 3, 2025",Martín Satriano,1,0,Centre-Forward,https://www.transfermarkt.com/martin-satriano/profil/spieler/640109,7,-,-,81'
+26,Footfeel ISM,"Nov 4, 1998",349,72,48,27811,Morocco,Paris SG,"1,81 m","€80.00m Jun 3, 2025",Achraf Hakimi,85,11,Right-Back,https://www.transfermarkt.com/achraf-hakimi/profil/spieler/398073,50,14,9,"4,255'"
+24,,"May 30, 2001",80,7,,7188,Spain,Paris SG,"1,85 m","€3.00m Jun 3, 2025",Arnau Tenas,5,0,Goalkeeper,https://www.transfermarkt.com/arnau-tenas/profil/spieler/466783,2,,,180'
+17,,"Aug 10, 2007",23,1,3,1880,France,Paris SG U23,"1,80 m","€2.00m Jun 3, 2025",Axel Tape,2,0,Centre-Back,https://www.transfermarkt.com/axel-tape/profil/spieler/1077670,22,1,3,"1,879'"
+19,VV Consulting,"May 15, 2006",70,13,10,5594,France,Paris SG,"1,68 m","€2.50m Jun 3, 2025",Yoram Zague,,,Right-Back,https://www.transfermarkt.com/yoram-zague/profil/spieler/1047097,11,1,2,723'
+27,,"Apr 2, 1998",234,12,,21025,Switzerland,Monaco,"1,90 m","€5.00m Jun 3, 2025",Philipp Köhn,0,0,Goalkeeper,https://www.transfermarkt.com/philipp-kohn/profil/spieler/251322,23,,,"2,070'"
+25,ROOF,"Nov 16, 1999",233,13,,20950,Poland,Monaco,"1,93 m","€6.00m Jun 3, 2025",Radoslaw Majecki,1,0,Goalkeeper,https://www.transfermarkt.com/radoslaw-majecki/profil/spieler/346546,23,,,"2,070'"
+24,,"Dec 25, 2000",200,17,14,14865,d'Ivoire,Monaco,"1,90 m","€25.00m Jun 3, 2025",Wilfried Singo,23,0,Centre-Back,https://www.transfermarkt.com/wilfried-singo/profil/spieler/648779,35,3,3,"2,699'"
+20,,"Jun 22, 2005",54,1,11,3537,France,Monaco U21,,"€500k Jun 3, 2025",Lucas Michal,10,4,Left Winger,https://www.transfermarkt.com/lucas-michal/profil/spieler/810909,19,-,1,751'
+21,Wasserman,"Jan 1, 2004",78,13,4,5520,Senegal,Monaco,"1,73 m","€22.00m Jun 3, 2025",Lamine Camara,23,6,Central Midfield,https://www.transfermarkt.com/lamine-camara/profil/spieler/918969,40,7,2,"2,783'"
+20,,"Feb 16, 2005",91,9,22,4746,Morocco,Monaco,"1,78 m","€28.00m Jun 3, 2025",Eliesse Ben Seghir,11,3,Left Winger,https://www.transfermarkt.com/eliesse-ben-seghir/profil/spieler/810895,46,4,9,"2,509'"
+26,Wasserman,"Feb 25, 1999",243,25,36,14626,Senegal,Monaco,"1,75 m","€7.00m Jun 3, 2025",Krépin Diatta,,,Right Winger,https://www.transfermarkt.com/krepin-diatta/profil/spieler/490426,24,-,-,713'
+31,,"May 12, 1994",122,3,,10374,France,LOSC Lille,"1,92 m","€100k Jun 3, 2025",Marc-Aurèle Caillard,1,0,Goalkeeper,https://www.transfermarkt.com/marc-aurele-caillard/profil/spieler/205465,-,,,0'
+25,Roc Nation Sports,"Aug 9, 1999",152,2,8,12523,Brazil,LOSC Lille,"1,91 m","€20.00m Jun 3, 2025",Alexsandro,2,0,Centre-Back,https://www.transfermarkt.com/alexsandro/profil/spieler/648020,,,,
+26,,"Apr 29, 1999",313,18,33,18320,Sweden,LOSC Lille,"1,80 m","€7.00m Jun 3, 2025",Gabriel Gudmundsson,15,0,Left-Back,https://www.transfermarkt.com/gabriel-gudmundsson/profil/spieler/362108,45,1,2,"2,683'"
+26,SP,"Jan 26, 1999",189,2,6,14319,Argentina,Marseille,"1,87 m","€20.00m Jun 3, 2025",Leonardo Balerdi,,,Centre-Back,https://www.transfermarkt.com/leonardo-balerdi/profil/spieler/575998,29,-,-,"2,456'"
+22,Gestifute,"Jul 23, 2002",123,12,5,8652,Portugal,LOSC Lille,"1,75 m","€15.00m Jun 3, 2025",Tiago Santos,0,0,Right-Back,https://www.transfermarkt.com/tiago-santos/profil/spieler/816580,13,1,1,869'
+29,,"Jul 25, 1995",188,21,,16489,Spain,Marseille,"1,88 m","€1.00m Jun 3, 2025",Rubén Blanco,2,0,Goalkeeper,https://www.transfermarkt.com/ruben-blanco/profil/spieler/199321,,,,
+27,Axia Sports ...,"Nov 25, 1997",204,4,11,16571,Canada,Marseille,"1,87 m","€5.00m Jun 3, 2025",Derek Cornelius,,,Centre-Back,https://www.transfermarkt.com/derek-cornelius/profil/spieler/328609,23,-,-,"1,522'"
+23,One Team Football,"May 16, 2002",140,12,5,9925,France,Marseille,"1,74 m","€15.00m Jun 3, 2025",Quentin Merlin,17,1,Left-Back,https://www.transfermarkt.com/quentin-merlin/profil/spieler/557613,29,3,1,"1,713'"
+27,,"Dec 1, 1997",323,24,14,22111,Algeria,Marseille,"1,75 m","€15.00m Jun 3, 2025",Ismaël Bennacer,,,Defensive Midfield,https://www.transfermarkt.com/ismael-bennacer/profil/spieler/351816,20,3,-,"1,081'"
+30,,"Aug 8, 1994",371,6,32,31224,Congo,Marseille,"1,82 m","€2.00m Jun 3, 2025",Chancel Mbemba,85,6,Centre-Back,https://www.transfermarkt.com/chancel-mbemba/profil/spieler/203348,,,,
+32,Sport Cover,"Feb 15, 1993",464,22,16,31811,Republic,Marseille,"1,88 m","€7.00m Jun 3, 2025",Geoffrey Kondogbia,19,3,Defensive Midfield,https://www.transfermarkt.com/geoffrey-kondogbia/profil/spieler/127189,26,-,-,"2,096'"
+24,Aneke/PMG,"Jul 1, 2000",181,19,61,10794,Cameroon,Marseille,"1,85 m","€5.00m Jun 3, 2025",Faris Moumbagna,9,0,Centre-Forward,https://www.transfermarkt.com/faris-moumbagna/profil/spieler/599663,1,-,-,8'
+28,Sport Cover,"Jun 18, 1997",275,44,25,17805,Morocco,Marseille,"1,80 m","€8.00m Jun 3, 2025",Amine Harit,24,1,Attacking Midfield,https://www.transfermarkt.com/amine-harit/profil/spieler/372711,13,5,2,522'
+30,,"Dec 7, 1994",369,24,17,27788,France,Marseille,"1,72 m","€9.00m Jun 3, 2025",Valentin Rongier,,,Central Midfield,https://www.transfermarkt.com/valentin-rongier/profil/spieler/332889,,,,
+23,,"May 16, 2002",161,34,39,10791,Sweden,R. Strasbourg,"1,78 m","€18.00m Jun 3, 2025",Sebastian Nanasi,8,3,Left Midfield,https://www.transfermarkt.com/sebastian-nanasi/profil/spieler/579928,37,5,9,"2,526'"
+21,,"Jul 24, 2003",124,2,3,9284,France,R. Strasbourg,"1,83 m","€18.00m Jun 3, 2025",Ismaël Doukouré,11,0,Centre-Back,https://www.transfermarkt.com/ismael-doukoure/profil/spieler/786436,32,1,1,"2,737'"
+20,Gestifute,"Aug 6, 2004",117,18,17,6827,Belgium,R. Strasbourg,"1,79 m","€18.00m Jun 3, 2025",Diego Moreira,0,0,Left Midfield,https://www.transfermarkt.com/diego-moreira/profil/spieler/655006,,,,
+19,GRINTA,"Jun 15, 2006",15,,1,572,Senegal,R. Strasbourg,"1,93 m","€800k Jun 3, 2025",Pape Diong,3,0,Defensive Midfield,https://www.transfermarkt.com/pape-diong/profil/spieler/1183575,,,,
+19,ROGON,"Oct 22, 2005",67,2,12,4325,d'Ivoire,R. Strasbourg,"1,80 m","€1.20m Jun 3, 2025",Abdoul Ouattara,,,Right Winger,https://www.transfermarkt.com/abdoul-ouattara/profil/spieler/991487,,,,
+23,Epic Dion,"Dec 20, 2001",79,2,28,3627,d'Ivoire,R. Strasbourg,"1,75 m","€1.00m Jun 3, 2025",Moïse Sahi Dion,1,1,Centre-Forward,https://www.transfermarkt.com/moise-sahi-dion/profil/spieler/880330,,,,
+30,Scuderia,"Mar 9, 1995",424,13,22,31752,France,OGC Nice,"1,83 m","€7.00m Jun 3, 2025",Baptiste Santamaria,3,0,Defensive Midfield,https://www.transfermarkt.com/baptiste-santamaria/profil/spieler/285323,25,2,-,"1,504'"
+22,,"May 4, 2003",94,2,8,5840,France,OGC Nice,"1,78 m","€2.50m Jun 3, 2025",Tom Louchet,2,0,Right Midfield,https://www.transfermarkt.com/tom-louchet/profil/spieler/750904,31,-,2,"1,440'"
+36,,"Sep 23, 1988",172,9,,15335,Republic,Stade Rennais,"1,86 m","€100k Jun 3, 2025",Geoffrey Lembet,38,0,Goalkeeper,https://www.transfermarkt.com/geoffrey-lembet/profil/spieler/72414,,,,
+23,,"Jul 1, 2001",213,23,42,11568,d'Ivoire,OGC Nice,"1,88 m","€25.00m Jun 3, 2025",Evann Guessand,8,1,Centre-Forward,https://www.transfermarkt.com/evann-guessand/profil/spieler/500689,42,10,13,"3,075'"
+31,SEG,"Jan 9, 1994",417,35,18,31718,Netherlands,Stade Rennais,"1,87 m","€2.50m Jun 3, 2025",Hans Hateboer,13,0,Right-Back,https://www.transfermarkt.com/hans-hateboer/profil/spieler/275303,28,-,-,"1,860'"
+24,One Team Football,"May 29, 2001",167,5,8,13029,France,Stade Rennais,"1,86 m","€10.00m Jun 3, 2025",Anthony Rouault,,,Centre-Back,https://www.transfermarkt.com/anthony-rouault/profil/spieler/690799,39,-,1,"3,076'"
+24,,"Apr 26, 2001",229,41,55,16420,Argentina,Olympique Lyon,"1,71 m","€25.00m Jun 3, 2025",Thiago Almada,,,Attacking Midfield,https://www.transfermarkt.com/thiago-almada/profil/spieler/576028,21,5,2,"1,244'"
+20,Roc Nation Sports,"Mar 31, 2005",139,17,24,7316,Belgium,Olympique Lyon,"1,69 m","€30.00m Jun 3, 2025",Malick Fofana,1,0,Left Winger,https://www.transfermarkt.com/malick-fofana/profil/spieler/743386,41,6,11,"2,280'"
+21,ROOF,"Nov 1, 2003",120,9,30,7356,Ghana,Olympique Lyon,"1,78 m","€15.00m Jun 3, 2025",Ernest Nuamah,12,3,Right Winger,https://www.transfermarkt.com/ernest-nuamah/profil/spieler/955070,33,2,6,"1,606'"
+36,Universal Twenty Two,"Aug 1, 1988",665,42,29,49376,Serbia,Olympique Lyon,"1,94 m","€2.00m Jun 3, 2025",Nemanja Matic,48,2,Defensive Midfield,https://www.transfermarkt.com/nemanja-matic/profil/spieler/74683,,,,
+22,HD,"Jun 18, 2003",103,4,16,6867,France,Lens,"1,80 m","€800k Jun 3, 2025",Tom Pouilly,,,Defensive Midfield,https://www.transfermarkt.com/tom-pouilly/profil/spieler/917817,,,,
+22,FAIR SPORT MNG,"Mar 3, 2003",120,8,25,7086,Guadeloupe,Lens,"1,84 m","€2.00m Jun 3, 2025",Rémy Labeau Lascary,,,Centre-Forward,https://www.transfermarkt.com/remy-labeau-lascary/profil/spieler/917778,16,1,2,680'
+24,SBB Global,"Nov 7, 2000",166,17,29,9537,Morocco,Lens,"1,76 m","€8.00m Jun 3, 2025",Anass Zaroury,4,0,Attacking Midfield,https://www.transfermarkt.com/anass-zaroury/profil/spieler/491296,29,3,2,"1,431'"
+30,Wasserman,"Apr 19, 1995",297,16,63,14809,France,Lens,"1,71 m","€3.00m Jun 3, 2025",Wesley Saïd,1,0,Centre-Forward,https://www.transfermarkt.com/wesley-said/profil/spieler/182916,26,-,4,"1,040'"
+34,,"Oct 1, 1990",507,18,,45438,Portugal,FC Nantes,"1,84 m","€1.20m Jun 3, 2025",Anthony Lopes,,,Goalkeeper,https://www.transfermarkt.com/anthony-lopes/profil/spieler/60561,,,,
+33,,"Jan 8, 1992",356,18,,31803,Sweden,FC Nantes,"1,89 m","€600k Jun 3, 2025",Patrik Carlgren,1,0,Goalkeeper,https://www.transfermarkt.com/patrik-carlgren/profil/spieler/190280,7,,,596'
+23,,"Nov 22, 2001",64,1,,5674,France,FC Nantes,"1,89 m","€50k Jun 3, 2025",Hugo Barbet,6,0,Goalkeeper,https://www.transfermarkt.com/hugo-barbet/profil/spieler/677820,,,,
+26,Sport Cover,"Jan 23, 1999",348,23,,31234,France,FC Nantes,"1,96 m","€3.00m Jun 3, 2025",Alban Lafont,0,0,Goalkeeper,https://www.transfermarkt.com/alban-lafont/profil/spieler/357117,18,,,"1,620'"
+23,Classico,"Jul 7, 2001",,,,,France,AJ Auxerre,"1,78 m","€5.00m Jun 3, 2025",Han-Noah Massengo,,,Central Midfield,https://www.transfermarkt.com/han-noah-massengo/profil/spieler/536508,26,1,-,"1,229'"
+20,,"Jun 28, 2004",98,,8,6401,France,AJ Auxerre,"1,83 m","€8.00m Jun 3, 2025",Kévin Danois,5,2,Central Midfield,https://www.transfermarkt.com/kevin-danois/profil/spieler/743496,23,-,-,"1,474'"
+20,,"Jun 14, 2005",21,3,7,1395,d'Ivoire,AJ Auxerre B,"1,78 m","€100k Jun 3, 2025",Aristide Zossou,,,Left Winger,https://www.transfermarkt.com/aristide-zossou/profil/spieler/1310513,21,3,7,"1,395'"
+19,Wasserman,"Sep 2, 2005",73,3,15,3630,France,AJ Auxerre,"1,76 m",,Ben Viadere,,,Attacking Midfield,https://www.transfermarkt.com/ben-viadere/profil/spieler/1048496,,,,
+25,GG11,"Feb 16, 2000",271,27,49,17498,d'Ivoire,AJ Auxerre,"1,77 m","€20.00m Jun 3, 2025",Hamed Junior Traoré,10,2,Attacking Midfield,https://www.transfermarkt.com/hamed-junior-traore/profil/spieler/391065,26,2,10,"2,108'"
+22,,"Oct 19, 2002",118,19,12,7189,d'Ivoire,AJ Auxerre,"1,76 m","€1.20m Jun 3, 2025",Lasso Coulibaly,1,0,Right Winger,https://www.transfermarkt.com/lasso-coulibaly/profil/spieler/658534,4,-,2,87'
+24,Key United,"Feb 5, 2001",149,21,6,7594,Netherlands,AJ Auxerre,"1,77 m","€150k Jun 3, 2025",Eros Maddy,2,0,Right Winger,https://www.transfermarkt.com/eros-maddy/profil/spieler/412934,6,-,-,261'
+29,,"Jun 7, 1996",326,41,63,19922,France,AJ Auxerre,"1,69 m","€8.00m Jun 3, 2025",Gaëtan Perrin,,,Right Winger,https://www.transfermarkt.com/gaetan-perrin/profil/spieler/353404,,,,
+25,VV Consulting,"Dec 8, 1999",192,26,41,11321,Mali,AJ Auxerre,"1,86 m","€4.00m Jun 3, 2025",Lassine Sinayoko,20,6,Centre-Forward,https://www.transfermarkt.com/lassine-sinayoko/profil/spieler/569140,35,9,5,"2,333'"
+29,,"Nov 8, 1995",368,31,100,19051,Japan,AJ Auxerre,"1,80 m","€1.50m Jun 3, 2025",Ado Onaiwu,3,3,Centre-Forward,https://www.transfermarkt.com/ado-onaiwu/profil/spieler/308133,32,1,4,"1,035'"
+28,Classico,"Jan 19, 1997",309,21,77,18414,France,AJ Auxerre,"1,84 m","€1.20m Jun 3, 2025",Florian Ayé,,,Centre-Forward,https://www.transfermarkt.com/florian-aye/profil/spieler/372713,27,-,2,623'
+25,,"Aug 27, 1999",166,12,25,7235,Canada,AJ Auxerre,"1,91 m","€1.80m Jun 3, 2025",Theo Bair,,,Centre-Forward,https://www.transfermarkt.com/theo-bair/profil/spieler/501709,30,1,2,996'
+28,,"Feb 23, 1997",253,20,,22798,France,Saint-Étienne,"1,81 m","€3.00m Jun 3, 2025",Gautier Larsonneur,2,0,Goalkeeper,https://www.transfermarkt.com/gautier-larsonneur/profil/spieler/357047,34,,,"3,033'"
+24,,"Feb 3, 2001",33,3,,2941,Senegal,Saint-Étienne,"1,98 m","€50k Jun 3, 2025",Boubacar Fall,2,0,Goalkeeper,https://www.transfermarkt.com/boubacar-fall/profil/spieler/836132,5,,,450'
+26,Horizon,"Mar 4, 1999",166,5,7,13500,France,Saint-Étienne,"1,93 m","€2.00m Jun 3, 2025",Mickaël Nade,,,Centre-Back,https://www.transfermarkt.com/mickael-nade/profil/spieler/494586,27,3,1,"2,368'"
+29,,"Feb 15, 1996",261,3,11,21057,Congo,Saint-Étienne,"1,85 m","€1.20m Jun 3, 2025",Dylan Batubinsika,,,Centre-Back,https://www.transfermarkt.com/dylan-batubinsika/profil/spieler/289432,26,-,1,"2,107'"
+35,,"Dec 1, 1989",301,6,,26822,France,Saint-Étienne,"1,92 m","€200k Jun 3, 2025",Brice Maubleu,0,0,Goalkeeper,https://www.transfermarkt.com/brice-maubleu/profil/spieler/78047,3,,,270'
+37,,"Sep 28, 1987",466,3,25,40511,Morocco,Saint-Étienne,"1,90 m","€400k Jun 3, 2025",Yunis Abdelhamid,16,0,Centre-Back,https://www.transfermarkt.com/yunis-abdelhamid/profil/spieler/199704,18,-,-,"1,183'"
+30,Kemari,"Nov 28, 1994",272,4,20,22068,France,Saint-Étienne,"1,85 m","€400k Jun 3, 2025",Anthony Briançon,,,Centre-Back,https://www.transfermarkt.com/anthony-briancon/profil/spieler/190338,2,-,-,46'
+28,,"Dec 12, 1996",232,24,2,18174,France,Saint-Étienne,"1,77 m","€800k Jun 3, 2025",Pierre Cornud,,,Left-Back,https://www.transfermarkt.com/pierre-cornud/profil/spieler/536156,13,2,-,772'
+28,,"Apr 15, 1997",178,6,6,14920,France,Saint-Étienne,"1,88 m","€900k Jun 3, 2025",Léo Pétrot,,,Left-Back,https://www.transfermarkt.com/leo-petrot/profil/spieler/412829,32,3,-,"2,671'"
+26,Wasserman,"Oct 1, 1998",153,8,8,11302,Guadeloupe,Saint-Étienne,"1,76 m","€1.80m Jun 3, 2025",Yvann Maçon,0,0,Right-Back,https://www.transfermarkt.com/yvann-macon/profil/spieler/580747,13,-,-,859'
+23,BS Group ...,"Jan 15, 2002",164,7,20,11816,France,Saint-Étienne,"1,89 m","€7.00m Jun 3, 2025",Pierre Ekwah,5,0,Defensive Midfield,https://www.transfermarkt.com/pierre-ekwah/profil/spieler/538994,31,-,1,"2,729'"
+27,,"Jan 26, 1998",220,8,8,14829,France,Saint-Étienne,"1,88 m","€600k Jun 3, 2025",Lamine Fomba,4,1,Defensive Midfield,https://www.transfermarkt.com/lamine-fomba/profil/spieler/391376,10,-,-,486'
+33,,"Jun 9, 1992",416,20,1,32382,France,Saint-Étienne,"1,79 m","€800k Jun 3, 2025",Dennis Appiah,1,0,Right-Back,https://www.transfermarkt.com/dennis-appiah/profil/spieler/111038,30,1,-,"2,216'"
+23,PANTHERA,"Nov 13, 2001",170,8,5,11433,Morocco,Saint-Étienne,"1,65 m","€5.00m Jun 3, 2025",Benjamin Bouchouari,4,0,Central Midfield,https://www.transfermarkt.com/benjamin-bouchouari/profil/spieler/783094,26,-,1,"1,810'"
+33,AGJ SP MGMT,"Apr 22, 1992",414,25,31,33419,France,Saint-Étienne,"1,81 m","€600k Jun 3, 2025",Florian Tardieu,,,Central Midfield,https://www.transfermarkt.com/florian-tardieu/profil/spieler/212804,24,4,2,"1,222'"
+24,,"Apr 9, 2001",134,4,5,6540,Morocco,Saint-Étienne,"1,79 m","€2.50m Jun 3, 2025",Aïmen Moueffek,5,0,Central Midfield,https://www.transfermarkt.com/aimen-moueffek/profil/spieler/484992,22,1,-,"1,041'"
+23,Kemari,"Jun 3, 2002",104,7,8,6335,France,Saint-Étienne,"1,80 m","€700k Jun 3, 2025",Louis Mouton,,,Central Midfield,https://www.transfermarkt.com/louis-mouton/profil/spieler/904662,27,1,-,"1,239'"
+22,DV Sports,"Jun 8, 2003",155,16,32,10428,Serbia,Saint-Étienne,"1,66 m","€1.00m Jun 3, 2025",Igor Miladinovic,6,0,Attacking Midfield,https://www.transfermarkt.com/igor-miladinovic/profil/spieler/729872,14,1,3,633'
+24,,"Feb 15, 2001",230,27,39,16118,Georgia,Saint-Étienne,"1,75 m","€10.00m Jun 3, 2025",Zuriko Davitashvili,46,6,Left Winger,https://www.transfermarkt.com/zuriko-davitashvili/profil/spieler/427572,34,8,9,"2,808'"
+24,,"Nov 3, 2000",139,25,33,8892,Ghana,Saint-Étienne,"1,78 m","€2.50m Jun 3, 2025",Augustine Boakye,0,0,Attacking Midfield,https://www.transfermarkt.com/augustine-boakye/profil/spieler/579263,18,-,3,809'
+22,,"Aug 13, 2002",120,16,11,6745,Zealand,Saint-Étienne,"1,73 m","€700k Jun 3, 2025",Ben Old,12,1,Left Winger,https://www.transfermarkt.com/ben-old/profil/spieler/617021,13,-,-,523'
+27,Wasserman,"Aug 8, 1997",257,29,78,15066,France,Saint-Étienne,"1,85 m","€2.50m Jun 3, 2025",Irvin Cardona,5,1,Centre-Forward,https://www.transfermarkt.com/irvin-cardona/profil/spieler/342226,33,6,7,"1,767'"
+20,Libera Sports,"Nov 29, 2004",95,14,38,6240,Belgium,Saint-Étienne,"1,83 m","€18.00m Jun 3, 2025",Lucas Stassin,9,2,Centre-Forward,https://www.transfermarkt.com/lucas-stassin/profil/spieler/655012,34,8,14,"2,285'"
+29,Sport Cover,"Nov 27, 1995",222,13,72,13585,Mali,Saint-Étienne,"1,92 m","€1.80m Jun 3, 2025",Ibrahim Sissoko,8,1,Centre-Forward,https://www.transfermarkt.com/ibrahim-sissoko/profil/spieler/484888,22,1,3,919'
+31,,"Apr 7, 1994",219,9,,19677,France,Le Havre AC,"1,96 m","€1.20m Jun 3, 2025",Arthur Desmas,,,Goalkeeper,https://www.transfermarkt.com/arthur-desmas/profil/spieler/379869,18,,,"1,620'"
+30,,"May 5, 1995",191,12,64,12162,Senegal,Saint-Étienne,"1,75 m","€700k Jun 3, 2025",Ibrahima Wadji,11,4,Centre-Forward,https://www.transfermarkt.com/ibrahima-wadji/profil/spieler/364232,10,-,-,343'
+34,,"Aug 5, 1990",143,6,,12741,France,Le Havre AC,"1,87 m","€300k Jun 3, 2025",Mathieu Gorgelin,1,0,Goalkeeper,https://www.transfermarkt.com/mathieu-gorgelin/profil/spieler/60543,17,,,"1,530'"
+23,,"Apr 12, 2002",149,3,7,12072,Senegal,Le Havre AC,"1,89 m","€8.00m Jun 3, 2025",Arouna Sangante,0,0,Centre-Back,https://www.transfermarkt.com/arouna-sangante/profil/spieler/768380,16,-,3,"1,251'"
+23,11WINS,"Jan 14, 2002",136,2,1,11360,France,Le Havre AC,"1,96 m","€7.00m Jun 3, 2025",Étienne Youté Kinkoué,,,Centre-Back,https://www.transfermarkt.com/etienne-youte-kinkoue/profil/spieler/639712,28,-,-,"2,320'"
+29,,"Jul 18, 1995",168,5,11,14490,France,Le Havre AC,"1,91 m","€3.00m Jun 3, 2025",Gautier Lloris,3,0,Centre-Back,https://www.transfermarkt.com/gautier-lloris/profil/spieler/249636,31,1,2,"2,770'"
+28,Horizon,"Jan 3, 1997",243,11,3,16851,Senegal,Le Havre AC,"1,82 m","€1.20m Jun 3, 2025",Fodé Ballo-Touré,16,0,Left-Back,https://www.transfermarkt.com/fode-ballo-toure/profil/spieler/296422,13,-,-,790'
+27,S.O.M FOOTBALL,"Apr 28, 1998",168,13,10,13109,France,Le Havre AC,"1,83 m","€800k Jun 3, 2025",Yanis Zouaoui,,,Left-Back,https://www.transfermarkt.com/yanis-zouaoui/profil/spieler/691841,,,,
+22,Sport Cover,"Sep 9, 2002",113,8,14,7188,France,Le Havre AC,"1,83 m","€2.50m Jun 3, 2025",Timothée Pembélé,1,0,Right-Back,https://www.transfermarkt.com/timothee-pembele/profil/spieler/538998,21,-,1,"1,198'"
+34,Sport Cover,"Jan 15, 1991",463,61,49,37285,Hungary,Le Havre AC,"1,81 m","€700k Jun 3, 2025",Loïc Nego,42,2,Right-Back,https://www.transfermarkt.com/loic-nego/profil/spieler/122840,32,1,-,"2,554'"
+34,,"Feb 19, 1991",261,8,6,19897,Morocco,Le Havre AC,"1,81 m","€300k Jun 3, 2025",Oualid El Hajjam,3,0,Right-Back,https://www.transfermarkt.com/oualid-el-hajjam/profil/spieler/283127,-,-,-,0'
+22,Sport Cover,"May 11, 2003",106,5,7,7759,France,Le Havre AC,"1,84 m","€6.00m Jun 3, 2025",Junior Mwanga,3,0,Defensive Midfield,https://www.transfermarkt.com/junior-mwanga/profil/spieler/1011200,,,,
+23,ND SPORTS MANAGEMENT,"Dec 11, 2001",176,7,11,9619,Senegal,Le Havre AC,"1,79 m","€2.00m Jun 3, 2025",Rassoul Ndiaye,1,0,Defensive Midfield,https://www.transfermarkt.com/rassoul-ndiaye/profil/spieler/662242,28,1,1,"1,122'"
+28,,"Sep 7, 1996",,,,,France,Le Havre AC,"1,74 m","€150k Jun 3, 2025",Aloïs Confais,,,Defensive Midfield,https://www.transfermarkt.com/alois-confais/profil/spieler/292820,2,-,-,27'
+31,,"Mar 3, 1994",310,11,27,22350,Guinea,Le Havre AC,"1,88 m","€3.00m Jun 3, 2025",Abdoulaye Touré,16,1,Defensive Midfield,https://www.transfermarkt.com/abdoulaye-toure/profil/spieler/181382,,,,
+32,,"Jan 15, 1993",352,36,28,24039,Russia,Le Havre AC,"1,82 m","€3.50m Jun 3, 2025",Daler Kuzyaev,51,3,Central Midfield,https://www.transfermarkt.com/daler-kuzyaev/profil/spieler/279570,13,-,1,645'
+23,,"Feb 25, 2002",137,10,13,9113,Morocco,Le Havre AC,"1,74 m","€5.00m Jun 3, 2025",Yassine Kechta,5,0,Central Midfield,https://www.transfermarkt.com/yassine-kechta/profil/spieler/667967,,,,
+20,,"Feb 17, 2005",58,2,1,2411,France,Le Havre AC,"1,87 m","€2.00m Jun 3, 2025",Mahamadou Diawara,5,0,Central Midfield,https://www.transfermarkt.com/mahamadou-diawara/profil/spieler/1053147,,,,
+19,,"Jun 7, 2006",44,1,19,2837,France,Le Havre AC,"1,82 m","€50k Jun 3, 2025",Ismaïl Bouneb,11,3,Attacking Midfield,https://www.transfermarkt.com/ismail-bouneb/profil/spieler/986286,5,-,3,433'
+22,Classico,"Mar 12, 2003",111,5,18,5161,Guadeloupe,Le Havre AC,"1,89 m","€2.00m Jun 3, 2025",Antoine Joujou,0,0,Left Winger,https://www.transfermarkt.com/antoine-joujou/profil/spieler/1028162,27,2,-,"1,023'"
+23,ND SPORTS MANAGEMENT,"Sep 24, 2001",157,23,14,10506,Guadeloupe,Le Havre AC,"1,78 m","€4.00m Jun 3, 2025",Josué Casimir,3,3,Right Winger,https://www.transfermarkt.com/josue-casimir/profil/spieler/763182,27,6,4,"2,006'"
+24,FAIR SPORT MNG,"Oct 10, 2000",172,16,23,11202,Senegal,Le Havre AC,"1,82 m","€2.00m Jun 3, 2025",Issa Soumaré,,,Left Winger,https://www.transfermarkt.com/issa-soumare/profil/spieler/568698,29,4,5,"1,904'"
+19,Classico,"Jun 10, 2006",70,,30,4011,Switzerland,Le Havre AC,"1,93 m",,Ruben Londja,2,0,Right Winger,https://www.transfermarkt.com/ruben-londja/profil/spieler/927369,4,-,-,218'
+20,VV Consulting,"May 14, 2005",57,8,36,2960,Morocco,Le Havre AC,"1,72 m","€1.50m Jun 3, 2025",Ilyes Housni,0,0,Centre-Forward,https://www.transfermarkt.com/ilyes-housni/profil/spieler/825437,13,-,-,236'
+32,,"Mar 5, 1993",406,33,131,23933,Egypt,Le Havre AC,"1,91 m","€800k Jun 3, 2025",Ahmed Hassan,32,6,Centre-Forward,https://www.transfermarkt.com/ahmed-hassan/profil/spieler/184816,27,1,5,"1,199'"
+35,Wasserman,"Dec 17, 1989",590,54,163,42588,Ghana,Le Havre AC,"1,75 m","€600k Jun 3, 2025",André Ayew,120,24,Centre-Forward,https://www.transfermarkt.com/andre-ayew/profil/spieler/45403,28,1,4,"1,541'"
+24,,"Aug 21, 2000",151,14,,13503,d'Ivoire,Angers SCO,"1,94 m","€7.00m Jun 3, 2025",Yahia Fofana,18,0,Goalkeeper,https://www.transfermarkt.com/yahia-fofana/profil/spieler/418651,33,,,"2,970'"
+23,,"Mar 16, 2002",38,1,,3420,Congo,Angers SCO,"1,87 m","€300k Jun 3, 2025",Melvin Zinga,0,0,Goalkeeper,https://www.transfermarkt.com/melvin-zinga/profil/spieler/548347,5,,,450'
+27,,"Apr 9, 1998",172,10,34,8688,Congo,Le Havre AC,"1,86 m","€400k Jun 3, 2025",Yann Kitala,1,0,Centre-Forward,https://www.transfermarkt.com/yann-kitala/profil/spieler/395677,-,-,-,0'
+21,,"May 6, 2004",49,,14,2657,France,Le Havre AC,"1,88 m","€400k Jun 3, 2025",Elysée Logbo,3,2,Centre-Forward,https://www.transfermarkt.com/elysee-logbo/profil/spieler/770407,2,-,-,27'
+19,Concept Sport Agency,"Jun 21, 2006",64,3,,5655,Mali,Angers SCO,"1,89 m",,Oumar Pona,0,0,Goalkeeper,https://www.transfermarkt.com/oumar-pona/profil/spieler/1073176,20,,,"1,755'"
+31,,"Jan 19, 1994",295,5,6,25131,Benin,Angers SCO,"1,94 m","€1.20m Jun 3, 2025",Cédric Hountondji,29,2,Centre-Back,https://www.transfermarkt.com/cedric-hountondji/profil/spieler/198709,4,1,-,315'
+31,,"Aug 9, 1993",339,17,4,26156,France,Angers SCO,"1,84 m","€1.50m Jun 3, 2025",Jordan Lefort,,,Centre-Back,https://www.transfermarkt.com/jordan-lefort/profil/spieler/192492,38,1,-,"3,301'"
+20,,"May 8, 2005",62,,7,4550,France,Angers SCO,"1,85 m","€4.00m Jun 3, 2025",Emmanuel Biumla,7,1,Centre-Back,https://www.transfermarkt.com/emmanuel-biumla/profil/spieler/1071956,18,-,1,"1,424'"
+35,,"Apr 25, 1990",443,18,3,35875,d'Ivoire,Angers SCO,"1,82 m","€300k Jun 3, 2025",Abdoulaye Bamba,4,0,Centre-Back,https://www.transfermarkt.com/abdoulaye-bamba/profil/spieler/62351,23,-,-,"1,871'"
+22,,"Mar 6, 2003",88,1,1,6534,France,Angers SCO,"1,97 m","€400k Jun 3, 2025",Ousmane Camara,0,0,Centre-Back,https://www.transfermarkt.com/ousmane-camara/profil/spieler/804711,15,1,1,"1,330'"
+21,,"Aug 19, 2003",96,,1,6575,Gabon,Angers SCO,"1,79 m","€800k Jun 3, 2025",Jacques Ekomié,8,0,Left-Back,https://www.transfermarkt.com/jacques-ekomie/profil/spieler/970279,21,-,-,960'
+35,,"Feb 4, 1990",438,30,7,35839,France,Angers SCO,"1,77 m","€300k Jun 3, 2025",Florent Hanin,,,Left-Back,https://www.transfermarkt.com/florent-hanin/profil/spieler/111811,35,2,1,"2,774'"
+25,FENOMENOW,"Aug 22, 1999",152,25,12,10649,Bosnia-Herzegovina,Angers SCO,"1,82 m","€150k Jun 3, 2025",Halid Sabanovic,6,0,Right-Back,https://www.transfermarkt.com/halid-sabanovic/profil/spieler/422986,3,-,-,119'
+25,,"Jun 16, 2000",135,15,3,7483,France,Angers SCO,"1,78 m","€800k Jun 3, 2025",Lilian Raolisoa,,,Right-Back,https://www.transfermarkt.com/lilian-raolisoa/profil/spieler/829874,33,4,-,"1,613'"
+31,,"Mar 20, 1994",290,9,20,19843,d'Ivoire,Angers SCO,"1,86 m","€2.00m Jun 3, 2025",Jean-Eudes Aholou,7,0,Defensive Midfield,https://www.transfermarkt.com/jean-eudes-aholou/profil/spieler/178313,29,-,2,"2,050'"
+28,Kemari,"Jun 28, 1996",296,22,5,24565,Haiti,Angers SCO,"1,76 m","€1.80m Jun 3, 2025",Carlens Arcus,43,1,Right-Back,https://www.transfermarkt.com/carlens-arcus/profil/spieler/371686,30,1,-,"2,084'"
+25,Concept Sport Agency,"Jan 14, 2000",88,4,4,5032,France,Angers SCO,"1,95 m","€400k Jun 3, 2025",Zinédine Ould Khaled,0,0,Defensive Midfield,https://www.transfermarkt.com/zinedine-ould-khaled/profil/spieler/650104,12,-,-,447'
+18,,"Jan 1, 2007",37,,1,2557,France,Angers SCO,"1,82 m","€300k Jun 3, 2025",Marius Courcoul,8,0,Defensive Midfield,https://www.transfermarkt.com/marius-courcoul/profil/spieler/1075575,22,-,1,"1,237'"
+31,,"Jan 28, 1994",377,6,11,30647,Algeria,Angers SCO,"1,77 m","€2.00m Jun 3, 2025",Haris Belkebla,11,0,Central Midfield,https://www.transfermarkt.com/haris-belkebla/profil/spieler/138055,24,2,-,"1,900'"
+23,,"Feb 14, 2002",111,8,6,7519,Morocco,Angers SCO,"1,75 m","€1.00m Jun 3, 2025",Yassin Belkhdim,0,0,Central Midfield,https://www.transfermarkt.com/yassin-belkhdim/profil/spieler/807688,33,2,1,"1,860'"
+30,,"Feb 27, 1995",241,21,29,15479,Gabon,Angers SCO,"1,72 m","€1.50m Jun 3, 2025",Jim Allevinah,26,8,Right Winger,https://www.transfermarkt.com/jim-allevinah/profil/spieler/646733,31,4,2,"1,951'"
+38,FAIR SPORT MNG,"Apr 15, 1987",432,24,42,28323,France,Angers SCO,"1,81 m","€200k Jun 3, 2025",Pierrick Capelle,,,Central Midfield,https://www.transfermarkt.com/pierrick-capelle/profil/spieler/214532,19,-,-,718'
+27,,"Jul 13, 1997",191,21,24,9817,Algeria,Angers SCO,"1,68 m","€3.50m Jun 3, 2025",Farid El Melali,2,0,Left Winger,https://www.transfermarkt.com/farid-el-melali/profil/spieler/425400,35,7,3,"2,018'"
+25,,"Nov 17, 1999",227,15,29,15523,Algeria,Angers SCO,"1,85 m","€7.00m Jun 3, 2025",Himad Abdelli,3,0,Attacking Midfield,https://www.transfermarkt.com/himad-abdelli/profil/spieler/592979,,,,
+32,,"Mar 1, 1993",400,89,35,29482,Algeria,Angers SCO,"1,80 m","€1.00m Jun 3, 2025",Zinedine Ferhat,13,0,Right Winger,https://www.transfermarkt.com/zinedine-ferhat/profil/spieler/232895,28,1,2,"1,127'"
+20,SEG,"Dec 25, 2004",59,4,3,3570,France,Angers SCO,"1,71 m","€400k Jun 3, 2025",Justin Kalumba,0,0,Right Winger,https://www.transfermarkt.com/justin-kalumba/profil/spieler/1101641,8,2,-,358'
+25,,"Apr 18, 2000",161,6,61,9323,France,Angers SCO,"1,81 m","€7.00m Jun 3, 2025",Estéban Lepaul,,,Centre-Forward,https://www.transfermarkt.com/esteban-lepaul/profil/spieler/461607,31,-,13,"1,866'"
+25,Classico,"Mar 23, 2000",113,7,24,4346,Senegal,Angers SCO,"1,78 m","€3.00m Jun 3, 2025",Bamba Dieng,20,2,Centre-Forward,https://www.transfermarkt.com/bamba-dieng/profil/spieler/822458,22,2,6,741'
+26,,"Mar 11, 1999",229,7,41,11244,Senegal,Angers SCO,"1,87 m","€1.00m Jun 3, 2025",Ibrahima Niane,15,6,Centre-Forward,https://www.transfermarkt.com/ibrahima-niane/profil/spieler/490417,28,1,3,"1,140'"
+31,,"Jan 19, 1994",343,15,69,19077,France,Angers SCO,"1,79 m","€400k Jun 3, 2025",Adrien Hunou,12,2,Centre-Forward,https://www.transfermarkt.com/adrien-hunou/profil/spieler/203507,11,-,2,449'
+18,Concept Sport Agency,"Dec 15, 2006",53,,20,3194,France,Angers SCO,"1,85 m","€800k Jun 3, 2025",Sidiki Chérif,0,0,Centre-Forward,https://www.transfermarkt.com/sidiki-cherif/profil/spieler/986288,8,-,-,337'
+34,YSI Football,"Apr 26, 1991",402,11,,36008,France,Montpellier,"1,86 m","€1.50m Jun 3, 2025",Benjamin Lecomte,0,0,Goalkeeper,https://www.transfermarkt.com/benjamin-lecomte/profil/spieler/127181,30,,,"2,673'"
+27,,"Jun 6, 1998",79,3,,6754,Congo,Montpellier,"1,80 m","€1.00m Jun 3, 2025",Dimitry Bertaud,5,0,Goalkeeper,https://www.transfermarkt.com/dimitry-bertaud/profil/spieler/371816,5,,,450'
+23,,"Aug 9, 2001",158,6,,13942,Bosnia-Herzegovina,Montpellier,"1,89 m","€100k Jun 3, 2025",Belmin Dizdarevic,1,0,Goalkeeper,https://www.transfermarkt.com/belmin-dizdarevic/profil/spieler/483007,8,,,720'
+23,,"Dec 3, 2001",105,,1,7094,d'Ivoire,Montpellier,"1,84 m","€4.00m Jun 3, 2025",Bamo Meïté,1,0,Centre-Back,https://www.transfermarkt.com/bamo-meite/profil/spieler/807165,10,-,-,452'
+23,,"Jan 20, 2002",193,1,2,15427,Switzerland,Montpellier,"1,87 m","€4.50m Jun 3, 2025",Becir Omeragic,,,Centre-Back,https://www.transfermarkt.com/becir-omeragic/profil/spieler/507344,23,-,-,"1,893'"
+28,,"Apr 15, 1997",218,3,11,17480,Mali,Montpellier,"1,92 m","€3.00m Jun 3, 2025",Kiki Kouyaté,36,0,Centre-Back,https://www.transfermarkt.com/kiki-kouyate/profil/spieler/211637,11,-,-,728'
+26,,"Apr 14, 1999",194,1,11,14646,Mali,Montpellier,"1,87 m","€3.00m Jun 3, 2025",Modibo Sagnan,,,Centre-Back,https://www.transfermarkt.com/modibo-sagnan/profil/spieler/524925,27,-,2,"2,117'"
+32,Classico,"Mar 22, 1993",337,19,37,29000,Guadeloupe,Montpellier,"1,96 m","€1.00m Jun 3, 2025",Christopher Jullien,0,0,Centre-Back,https://www.transfermarkt.com/christopher-jullien/profil/spieler/201737,1,-,-,45'
+19,Smartalent,"Jul 23, 2005",72,,3,5667,France,Montpellier,"1,83 m","€600k Jun 3, 2025",Yaël Mouanga,,,Centre-Back,https://www.transfermarkt.com/yael-mouanga/profil/spieler/970364,21,-,-,"1,480'"
+33,,"Nov 25, 1991",329,9,6,26720,Serbia,Montpellier,"1,93 m","€300k Jun 3, 2025",Nikola Maksimović,25,0,Centre-Back,https://www.transfermarkt.com/nikola-maksimovic/profil/spieler/124715,7,-,-,584'
+31,,"Jan 1, 1994",331,22,15,24641,Guinea,Montpellier,"1,80 m","€1.50m Jun 3, 2025",Issiaga Sylla,82,3,Left-Back,https://www.transfermarkt.com/issiaga-sylla/profil/spieler/220878,20,-,1,"1,223'"
+21,,"Jan 5, 2004",72,1,8,5285,France,Montpellier,"1,79 m","€900k Jun 3, 2025",Lucas Mincarelli,0,0,Left-Back,https://www.transfermarkt.com/lucas-mincarelli/profil/spieler/982393,13,-,1,908'
+26,One Team Football,"Oct 20, 1998",136,5,4,10146,France,Montpellier,"1,76 m","€800k Jun 3, 2025",Théo Sainte-Luce,,,Left-Back,https://www.transfermarkt.com/theo-sainte-luce/profil/spieler/537127,18,-,1,"1,095'"
+30,Sferico Sports ...,"May 1, 1995",264,20,2,21655,Mali,Montpellier,"1,80 m","€1.50m Jun 3, 2025",Falaye Sacko,42,2,Right-Back,https://www.transfermarkt.com/falaye-sacko/profil/spieler/364857,17,1,-,"1,282'"
+22,Wasserman,"Nov 23, 2002",100,3,2,6919,Cameroon,Montpellier,"1,82 m","€2.50m Jun 3, 2025",Enzo Tchato,5,0,Right-Back,https://www.transfermarkt.com/enzo-tchato/profil/spieler/842338,27,-,-,"1,902'"
+23,FAIR SPORT MNG,"Sep 24, 2001",206,11,3,14376,France,Montpellier,"1,79 m","€6.00m Jun 3, 2025",Joris Chotard,3,0,Defensive Midfield,https://www.transfermarkt.com/joris-chotard/profil/spieler/624037,27,-,1,"1,961'"
+33,FAIR SPORT MNG,"Mar 12, 1992",430,36,18,28954,France,Montpellier,"1,73 m","€2.00m Jun 3, 2025",Jordan Ferri,6,1,Central Midfield,https://www.transfermarkt.com/jordan-ferri/profil/spieler/118284,27,2,-,"1,933'"
+19,,"Nov 25, 2005",72,1,4,4100,France,Montpellier,"1,83 m","€2.50m Jun 3, 2025",Rabby Nzingoula,4,0,Defensive Midfield,https://www.transfermarkt.com/rabby-nzingoula/profil/spieler/1068110,27,-,1,"1,695'"
+21,BS Group ...,"Jun 9, 2004",88,4,4,4339,Morocco,Montpellier,"1,72 m","€3.00m Jun 3, 2025",Khalil Fayad,3,0,Central Midfield,https://www.transfermarkt.com/khalil-fayad/profil/spieler/782630,22,-,-,"1,113'"
+34,,"Feb 8, 1991",521,61,108,35191,Tunisia,Montpellier,"1,76 m","€1.00m Jun 3, 2025",Wahbi Khazri,,,Left Winger,https://www.transfermarkt.com/wahbi-khazri/profil/spieler/103565,31,1,1,"1,110'"
+24,,"Feb 18, 2001",152,9,18,7629,France,Montpellier,"1,79 m","€1.50m Jun 3, 2025",Tanguy Coulibaly,,,Right Winger,https://www.transfermarkt.com/tanguy-coulibaly/profil/spieler/618425,26,-,3,"1,489'"
+33,VV Consulting,"Dec 22, 1991",430,88,75,33301,France,Montpellier,"1,72 m","€2.50m Jun 3, 2025",Téji Savanier,1,0,Attacking Midfield,https://www.transfermarkt.com/teji-savanier/profil/spieler/127156,,,,
+21,,"Jul 7, 2003",78,2,14,4016,France,Montpellier,"1,77 m","€700k Jun 3, 2025",Nicolas Pays,,,Attacking Midfield,https://www.transfermarkt.com/nicolas-pays/profil/spieler/1093482,30,1,6,"2,051'"
+20,,"Mar 29, 2005",97,,36,6486,Emirates,Montpellier,"1,80 m","€150k Jun 3, 2025",Junior Ndiaye,0,0,Centre-Forward,https://www.transfermarkt.com/junior-ndiaye/profil/spieler/986262,22,-,5,944'
+21,,"Jan 12, 2004",12,,6,986,Cameroon,Montpellier,,,Glenn Ngosso,,,Centre-Forward,https://www.transfermarkt.com/glenn-ngosso/profil/spieler/1238800,3,-,2,270'
+33,,"Oct 9, 1991",469,58,155,32913,Algeria,Montpellier,"1,81 m","€1.50m Jun 3, 2025",Andy Delort,15,2,Centre-Forward,https://www.transfermarkt.com/andy-delort/profil/spieler/122797,25,1,4,"1,927'"
+19,,"Oct 6, 2005",74,3,18,4594,Morocco,Montpellier,"1,82 m","€600k Jun 3, 2025",Othmane Maamma,,,Right Winger,https://www.transfermarkt.com/othmane-maamma/profil/spieler/1081219,14,1,2,449'
+37,Sport Cover,"Sep 19, 1987",470,12,17,39942,France,FC Nantes,"1,89 m","€400k Jun 3, 2025",Nicolas Pallois,,,Centre-Back,https://www.transfermarkt.com/nicolas-pallois/profil/spieler/139279,27,3,-,"2,110'"
+30,BTFM,"Jan 26, 1995",367,4,13,31221,Cameroon,FC Nantes,"1,86 m","€3.50m Jun 3, 2025",Jean-Charles Castelletto,30,2,Centre-Back,https://www.transfermarkt.com/jean-charles-castelletto/profil/spieler/182875,,,,
+20,,"Jun 18, 2005",89,1,8,7519,France,FC Nantes,"1,90 m","€15.00m Jun 3, 2025",Nathan Zézé,3,1,Centre-Back,https://www.transfermarkt.com/nathan-zeze/profil/spieler/923832,21,-,1,"1,738'"
+22,,"Jul 4, 2002",102,3,3,7712,Guinea,FC Nantes,"1,87 m","€6.00m Jun 3, 2025",Saïdou Sow,0,0,Centre-Back,https://www.transfermarkt.com/saidou-sow/profil/spieler/807128,22,1,1,"1,909'"
+29,,"Jan 16, 1996",287,17,11,21967,France,FC Nantes,"1,82 m","€1.80m Jun 3, 2025",Fabien Centonze,,,Right-Back,https://www.transfermarkt.com/fabien-centonze/profil/spieler/384859,10,-,-,407'
+27,,"Feb 8, 1998",286,9,7,23661,France,FC Nantes,"1,80 m","€2.50m Jun 3, 2025",Kelvin Amian,16,1,Right-Back,https://www.transfermarkt.com/kelvin-amian/profil/spieler/344072,32,1,1,"2,228'"
+28,,"Jun 24, 1996",305,15,14,15964,Guadeloupe,FC Nantes,"1,84 m","€1.20m Jun 3, 2025",Marcus Coco,6,0,Right-Back,https://www.transfermarkt.com/marcus-coco/profil/spieler/353365,23,1,2,"1,164'"
+26,One Team Football,"Jan 8, 1999",182,8,6,13358,France,FC Nantes,"1,78 m","€3.50m Jun 3, 2025",Nicolas Cozza,7,0,Left-Back,https://www.transfermarkt.com/nicolas-cozza/profil/spieler/485965,29,1,1,"2,211'"
+22,,"Oct 22, 2002",141,4,4,9863,France,FC Nantes,"1,76 m","€6.00m Jun 3, 2025",Johann Lepenant,14,2,Defensive Midfield,https://www.transfermarkt.com/johann-lepenant/profil/spieler/585973,31,1,2,"2,221'"
+34,One Team Football,"May 13, 1991",443,12,12,26634,France,FC Nantes,"1,77 m","€900k Jun 3, 2025",Francis Coquelin,,,Defensive Midfield,https://www.transfermarkt.com/francis-coquelin/profil/spieler/74869,7,1,1,314'
+28,,"Jan 13, 1997",335,16,22,24463,Brazil,FC Nantes,"1,73 m","€6.00m Jun 3, 2025",Douglas Augusto,,,Central Midfield,https://www.transfermarkt.com/douglas-augusto/profil/spieler/393621,30,3,4,"2,463'"
+28,,"May 23, 1997",304,23,8,24130,Spain,FC Nantes,"1,78 m","€5.00m Jun 3, 2025",Pedro Chirivella,9,2,Defensive Midfield,https://www.transfermarkt.com/pedro-chirivella/profil/spieler/242273,32,4,-,"2,543'"
+33,LB SPORT & ...,"Nov 19, 1991",394,41,62,25621,France,FC Nantes,"1,75 m","€1.20m Jun 3, 2025",Florent Mollet,,,Attacking Midfield,https://www.transfermarkt.com/florent-mollet/profil/spieler/222859,10,2,-,307'
+19,,"Jan 23, 2006",76,3,12,5043,France,FC Nantes,"1,84 m","€4.00m Jun 3, 2025",Louis Leroux,,,Attacking Midfield,https://www.transfermarkt.com/louis-leroux/profil/spieler/1119456,24,1,3,"1,268'"
+20,,"Apr 17, 2005",88,2,8,5399,France,FC Nantes,"1,83 m","€200k Jun 3, 2025",Dehmaine Tabibou,4,2,Central Midfield,https://www.transfermarkt.com/dehmaine-tabibou/profil/spieler/1004619,19,1,2,552'
+29,,"Jul 12, 1995",398,69,76,28728,Nigeria,FC Nantes,"1,68 m","€12.00m Jun 3, 2025",Moses Simon,81,10,Left Winger,https://www.transfermarkt.com/moses-simon/profil/spieler/274862,33,10,8,"2,694'"
+18,Concept Sport Agency,"Aug 29, 2006",73,2,28,4104,France,FC Nantes,"1,86 m","€1.00m Jun 3, 2025",Herba Guirassy,,,Left Winger,https://www.transfermarkt.com/herba-guirassy/profil/spieler/1119453,28,-,6,923'
+22,Wasserman,"Mar 28, 2003",137,11,32,7547,France,FC Nantes,"1,82 m","€18.00m Jun 3, 2025",Matthis Abline,8,2,Centre-Forward,https://www.transfermarkt.com/matthis-abline/profil/spieler/659543,36,2,11,"2,968'"
+27,,"Nov 28, 1997",292,23,83,17802,Egypt,FC Nantes,"1,85 m","€5.00m Jun 3, 2025",Mostafa Mohamed,47,13,Centre-Forward,https://www.transfermarkt.com/mostafa-mohamed/profil/spieler/462348,32,1,6,"1,310'"
+26,Wasserman,"Jan 25, 1999",255,41,16,17761,Wales,FC Nantes,"1,85 m","€3.50m Jun 3, 2025",Sorba Thomas,18,1,Right Winger,https://www.transfermarkt.com/sorba-thomas/profil/spieler/475416,27,3,1,"1,390'"
+27,,"Aug 6, 1997",246,38,51,14831,Congo,FC Nantes,"1,73 m","€4.00m Jun 3, 2025",Meschack Elia,46,9,Centre-Forward,https://www.transfermarkt.com/meschack-elia/profil/spieler/423678,31,2,2,"1,234'"
+27,Golden Sports Mgmt,"Jun 12, 1998",112,5,,10040,Norway,Toulouse,"1,87 m","€600k Jun 3, 2025",Kjetil Haug,5,0,Goalkeeper,https://www.transfermarkt.com/kjetil-haug/profil/spieler/328770,6,,,497'
+29,,"Jan 5, 1996",247,26,76,14270,Zimbabwe,FC Nantes,"1,83 m","€2.50m Jun 3, 2025",Tino Kadewere,19,3,Centre-Forward,https://www.transfermarkt.com/tino-kadewere/profil/spieler/384060,13,3,1,603'
+22,SBE Management AG,"Apr 9, 2003",52,6,,4571,France,Toulouse,"1,92 m",,Justin Lacombe,,,Goalkeeper,https://www.transfermarkt.com/justin-lacombe/profil/spieler/854988,6,,,540'
+26,Wasserman,"Feb 25, 1999",237,6,8,19886,States,Toulouse,"1,84 m","€6.00m Jun 3, 2025",Mark McKenzie,22,0,Centre-Back,https://www.transfermarkt.com/mark-mckenzie/profil/spieler/429259,34,1,1,"2,705'"
+22,,"Aug 17, 2002",121,4,13,9260,England,Toulouse,"1,90 m","€10.00m Jun 3, 2025",Charlie Cresswell,23,3,Centre-Back,https://www.transfermarkt.com/charlie-cresswell/profil/spieler/597659,34,2,4,"2,850'"
+28,BTAM,"Mar 16, 1997",237,9,17,18760,Denmark,Toulouse,"1,91 m","€4.50m Jun 3, 2025",Rasmus Nicolaisen,0,0,Centre-Back,https://www.transfermarkt.com/rasmus-nicolaisen/profil/spieler/283227,8,1,-,654'
+20,Classico,"Mar 11, 2005",94,7,,8234,France,Toulouse,"1,88 m","€20.00m Jun 3, 2025",Guillaume Restes,14,0,Goalkeeper,https://www.transfermarkt.com/guillaume-restes/profil/spieler/912902,31,,,"2,725'"
+18,,"Jul 29, 2006",52,,3,3769,France,Toulouse,"1,88 m","€4.00m Jun 3, 2025",Jaydee Canvot,8,1,Centre-Back,https://www.transfermarkt.com/jaydee-canvot/profil/spieler/1006411,24,-,-,"1,497'"
+27,Vibra Futbol,"Aug 9, 1997",316,30,13,24286,Chile,Toulouse,"1,78 m","€4.00m Jun 3, 2025",Gabriel Suazo,33,0,Left-Back,https://www.transfermarkt.com/gabriel-suazo/profil/spieler/385105,33,7,-,"2,353'"
+20,VV Consulting,"Jun 5, 2005",60,3,4,5133,France,Toulouse B,"1,79 m",,Ylies Aradj,,,Left-Back,https://www.transfermarkt.com/ylies-aradj/profil/spieler/923758,22,3,1,"1,892'"
+21,,"Oct 6, 2003",78,,4,5453,Romania,Toulouse,"1,92 m","€600k Jun 3, 2025",Ümit Akdağ,10,2,Centre-Back,https://www.transfermarkt.com/umit-akdag/profil/spieler/958647,12,-,-,698'
+24,Solbakken / Player ...,"Nov 11, 2000",140,12,9,7953,Norway,Toulouse,"1,77 m","€2.00m Jun 3, 2025",Warren Kamanzi,0,0,Right-Back,https://www.transfermarkt.com/warren-kamanzi/profil/spieler/794758,24,1,1,"1,019'"
+32,,"Jul 29, 1992",439,43,21,33371,France,Toulouse,"1,83 m","€1.00m Jun 3, 2025",Djibril Sidibé,18,1,Right-Back,https://www.transfermarkt.com/djibril-sidibe/profil/spieler/161869,28,3,-,"2,105'"
+29,Gold Kick SA,"Oct 8, 1995",385,26,53,27158,Switzerland,Toulouse,"1,85 m","€4.00m Jun 3, 2025",Vincent Sierro,13,1,Central Midfield,https://www.transfermarkt.com/vincent-sierro/profil/spieler/280387,30,1,5,"2,440'"
+25,,"Jan 20, 2000",245,22,21,18507,Venezuela,Toulouse,"1,76 m","€6.00m Jun 3, 2025",Cristian Cásseres Jr.,37,0,Central Midfield,https://www.transfermarkt.com/cristian-casseres-jr-/profil/spieler/467632,34,3,1,"2,823'"
+27,SEG,"Mar 1, 1998",317,78,60,19673,Germany,Toulouse,"1,84 m","€1.80m Jun 3, 2025",Niklas Schmidt,8,3,Central Midfield,https://www.transfermarkt.com/niklas-schmidt/profil/spieler/275249,10,1,-,227'
+22,,"Apr 28, 2003",46,2,,2712,Algeria,Toulouse,"1,77 m","€800k Jun 3, 2025",Rafik Messali,,,Right Midfield,https://www.transfermarkt.com/rafik-messali/profil/spieler/883865,22,1,-,"1,211'"
+30,SEG,"Jul 1, 1994",393,49,56,24619,Slovenia,Toulouse,"1,78 m","€1.50m Jun 3, 2025",Miha Zajc,39,8,Central Midfield,https://www.transfermarkt.com/miha-zajc/profil/spieler/149829,,,,
+27,Nordic Sky,"Apr 20, 1998",284,38,44,20011,Norway,Toulouse,"1,78 m","€4.00m Jun 3, 2025",Aron Dønnum,13,2,Left Midfield,https://www.transfermarkt.com/aron-donnum/profil/spieler/476836,35,3,2,"2,834'"
+24,ND SPORTS MANAGEMENT,"Jan 14, 2001",188,22,24,10861,France,Toulouse,"1,78 m","€8.00m Jun 3, 2025",Yann Gboho,3,0,Left Winger,https://www.transfermarkt.com/yann-gboho/profil/spieler/463613,33,4,5,"2,429'"
+25,PANTHERA,"Feb 18, 2000",272,30,74,16221,Morocco,Toulouse,"1,79 m","€12.00m Jun 3, 2025",Zakaria Aboukhlal,22,3,Right Winger,https://www.transfermarkt.com/zakaria-aboukhlal/profil/spieler/393238,27,4,7,"2,000'"
+18,One Team Football,"Sep 20, 2006",45,1,6,3613,France,Toulouse,"1,72 m","€50k Jun 3, 2025",Mathis Saka,2,0,Attacking Midfield,https://www.transfermarkt.com/mathis-saka/profil/spieler/986310,19,1,2,"1,529'"
+25,,"Jun 1, 2000",138,23,21,7866,Gabon,Toulouse,"1,79 m","€2.50m Jun 3, 2025",Shavy Babicka,11,1,Right Winger,https://www.transfermarkt.com/shavy-babicka/profil/spieler/916920,33,2,4,"1,443'"
+33,ROGON,"Jan 15, 1992",449,54,95,27943,Norway,Toulouse,"1,80 m","€1.80m Jun 3, 2025",Joshua King,,,Centre-Forward,https://www.transfermarkt.com/joshua-king/profil/spieler/91059,30,4,6,"1,712'"
+19,Classico,"Oct 4, 2005",71,2,15,4211,France,Toulouse,"1,82 m","€800k Jun 3, 2025",Noah Edjouma,2,0,Right Winger,https://www.transfermarkt.com/noah-edjouma/profil/spieler/1078326,17,2,6,674'
+25,FAIR SPORT MNG,"Nov 16, 1999",152,5,,13665,Senegal,Stade Reims,"1,90 m","€12.00m Jun 3, 2025",Yehvann Diouf,1,0,Goalkeeper,https://www.transfermarkt.com/yehvann-diouf/profil/spieler/448632,41,,,"3,720'"
+29,LB SPORT & ...,"Feb 15, 1996",151,2,,13545,France,Stade Reims,"1,93 m","€200k Jun 3, 2025",Alexandre Olliero,,,Goalkeeper,https://www.transfermarkt.com/alexandre-olliero/profil/spieler/395602,1,,,90'
+28,,"May 26, 1997",205,3,6,16553,Kenya,Stade Reims,"1,90 m","€7.00m Jun 3, 2025",Joseph Okumu,16,0,Centre-Back,https://www.transfermarkt.com/joseph-okumu/profil/spieler/453376,28,-,1,"2,198'"
+28,,"Dec 9, 1996",295,9,12,24924,d'Ivoire,Stade Reims,"1,93 m","€3.00m Jun 3, 2025",Cédric Kipré,0,0,Centre-Back,https://www.transfermarkt.com/cedric-kipre/profil/spieler/364827,34,1,2,"2,761'"
+20,,"Mar 9, 2005",57,1,,4109,Sweden,Stade Reims,"1,90 m","€2.00m Jun 3, 2025",Malcolm Jeng,,,Centre-Back,https://www.transfermarkt.com/malcolm-jeng/profil/spieler/1126894,6,-,-,305'
+42,,"Apr 3, 1983",534,23,,47873,France,Stade Reims,"1,88 m","€100k Jun 3, 2025",Ludovic Butelle,3,0,Goalkeeper,https://www.transfermarkt.com/ludovic-butelle/profil/spieler/12029,1,,,90'
+20,,"Apr 22, 2005",50,2,2,3349,France,Stade Reims,"1,92 m","€400k Jun 3, 2025",Abdoul Koné,0,0,Centre-Back,https://www.transfermarkt.com/abdoul-kone/profil/spieler/1130445,10,1,1,476'
+19,One Team Football,"Feb 27, 2006",72,3,1,4383,France,Stade Reims,"1,78 m","€2.50m Jun 3, 2025",Nhoa Sangui,10,0,Left-Back,https://www.transfermarkt.com/nhoa-sangui/profil/spieler/955281,32,3,1,"1,443'"
+27,AS1,"Dec 16, 1997",210,15,10,17028,Spain,Stade Reims,"1,75 m","€7.00m Jun 3, 2025",Sergio Akieme,1,0,Left-Back,https://www.transfermarkt.com/sergio-akieme/profil/spieler/355627,,,,
+28,Proeleven S.A.,"Feb 10, 1997",272,33,8,19386,Portugal,Stade Reims,"1,72 m","€5.00m Jun 3, 2025",Aurélio Buta,5,0,Right-Back,https://www.transfermarkt.com/aurelio-buta/profil/spieler/258039,31,1,-,"2,259'"
+22,,"Aug 11, 2002",54,1,,4164,Japan,Stade Reims,"1,87 m","€1.20m Jun 3, 2025",Hiroki Sekine,1,0,Right-Back,https://www.transfermarkt.com/hiroki-sekine/profil/spieler/1137808,21,1,-,"1,352'"
+19,One Team Football,"Aug 25, 2005",88,1,1,6022,France,Stade Reims,"1,76 m","€10.00m Jun 3, 2025",Valentin Atangana,0,0,Central Midfield,https://www.transfermarkt.com/valentin-atangana/profil/spieler/923759,41,-,1,"3,379'"
+24,BTFM,"Dec 25, 2000",160,3,7,12068,d'Ivoire,Stade Reims,"1,88 m","€4.00m Jun 3, 2025",Mory Gbane,2,0,Defensive Midfield,https://www.transfermarkt.com/mory-gbane/profil/spieler/717585,40,1,1,"3,326'"
+20,,"May 14, 2005",60,,1,3208,d'Ivoire,Stade Reims,"1,78 m","€4.00m Jun 3, 2025",Amadou Koné,0,0,Defensive Midfield,https://www.transfermarkt.com/amadou-kone/profil/spieler/1178474,31,-,-,"1,747'"
+21,,"Jun 12, 2004",42,1,10,2432,d'Ivoire,Stade Reims,"1,80 m","€4.00m Jun 3, 2025",Yaya Fofana,0,0,Central Midfield,https://www.transfermarkt.com/yaya-fofana/profil/spieler/1044893,12,1,1,638'
+18,,"Nov 20, 2006",11,,1,428,Mali,Stade Reims B,"1,78 m","€300k Jun 3, 2025",Ange Martial Tia,0,0,Attacking Midfield,https://www.transfermarkt.com/ange-martial-tia/profil/spieler/1132634,11,-,1,428'
+21,,"Sep 24, 2003",78,4,1,3530,Ireland,Stade Reims,"1,92 m","€1.20m Jun 3, 2025",John Patrick,1,0,Central Midfield,https://www.transfermarkt.com/john-patrick/profil/spieler/841121,33,2,-,"1,644'"
+31,Libera Sports,"Sep 30, 1993",325,53,48,25615,Malta,Stade Reims,"1,76 m","€3.00m Jun 3, 2025",Teddy Teuma,45,4,Central Midfield,https://www.transfermarkt.com/teddy-teuma/profil/spieler/409153,20,1,2,933'
+23,Footfeel ISM,"Jul 4, 2001",171,23,16,8609,Germany,Stade Reims,"1,75 m","€2.00m Jun 3, 2025",Reda Khadra,3,0,Attacking Midfield,https://www.transfermarkt.com/reda-khadra/profil/spieler/405686,4,-,-,75'
+24,,"Jul 28, 2000",236,23,72,14497,Japan,Stade Reims,"1,80 m","€8.00m Jun 3, 2025",Keito Nakamura,,,Left Winger,https://www.transfermarkt.com/keito-nakamura/profil/spieler/405397,40,3,12,"3,265'"
+23,,"Jan 7, 2002",219,28,54,13383,Denmark,Stade Reims,"1,80 m","€4.00m Jun 3, 2025",Mohamed Daramy,,,Left Winger,https://www.transfermarkt.com/mohamed-daramy/profil/spieler/574385,2,-,-,14'
+19,,"Sep 22, 2005",86,5,9,4136,France,Stade Reims,"1,80 m","€3.00m Jun 3, 2025",Mamadou Diakhon,4,0,Left Winger,https://www.transfermarkt.com/mamadou-diakhon/profil/spieler/1054839,35,2,3,"1,206'"
+32,,"Mar 9, 1993",412,102,68,32445,Japan,Stade Reims,"1,76 m","€6.00m Jun 3, 2025",Junya Ito,62,14,Right Winger,https://www.transfermarkt.com/junya-ito/profil/spieler/348791,39,6,4,"3,199'"
+21,Wasserman,"Dec 20, 2003",106,13,25,6970,d'Ivoire,Stade Reims,"1,85 m","€6.00m Jun 3, 2025",Oumar Diakité,15,2,Centre-Forward,https://www.transfermarkt.com/oumar-diakite/profil/spieler/847279,33,1,4,"1,958'"
+29,Gestifute,"Apr 26, 1996",331,28,99,17780,States,Stade Reims,"1,91 m","€3.00m Jun 3, 2025",Jordan,9,1,Centre-Forward,https://www.transfermarkt.com/jordan/profil/spieler/355369,31,1,1,"1,647'"
+34,Key United,"Mar 10, 1991",477,25,,42796,Netherlands,Stade Brestois,"1,93 m","€3.00m Jun 3, 2025",Marco Bizot,1,0,Goalkeeper,https://www.transfermarkt.com/marco-bizot/profil/spieler/124884,41,,,"3,690'"
+20,,"Aug 26, 2004",27,2,,2430,Ireland,Stade Brestois,"1,94 m",,Noah Jauny,,,Goalkeeper,https://www.transfermarkt.com/noah-jauny/profil/spieler/975438,-,,,0'
+26,,"Apr 3, 1999",59,3,,5165,France,Stade Brestois,"1,92 m","€500k Jun 3, 2025",Grégoire Coudert,0,0,Goalkeeper,https://www.transfermarkt.com/gregoire-coudert/profil/spieler/525155,7,,,630'
+23,,"Apr 10, 2002",105,5,2,8596,Senegal,Stade Brestois,"1,95 m","€4.00m Jun 3, 2025",Abdoulaye Ndiaye,1,0,Centre-Back,https://www.transfermarkt.com/abdoulaye-ndiaye/profil/spieler/673514,27,-,1,"2,157'"
+32,HD,"Dec 2, 1992",316,17,5,21872,Mali,Stade Brestois,"1,79 m","€1.50m Jun 3, 2025",Massadio Haidara,,,Left-Back,https://www.transfermarkt.com/massadio-haidara/profil/spieler/170929,32,-,-,"2,327'"
+23,,"May 6, 2002",101,4,1,6968,France,Stade Brestois,"1,80 m","€9.00m Jun 3, 2025",Bradley Locko,,,Left-Back,https://www.transfermarkt.com/bradley-locko/profil/spieler/805908,2,-,-,97'
+27,Soccer Connect,"Aug 3, 1997",188,4,12,14236,France,Stade Brestois,"1,84 m","€2.00m Jun 3, 2025",Julien Le Cardinal,,,Centre-Back,https://www.transfermarkt.com/julien-le-cardinal/profil/spieler/794349,21,1,1,"1,725'"
+31,Classico,"Mar 9, 1994",265,15,8,20174,France,Stade Brestois,"1,76 m","€1.50m Jun 3, 2025",Jordan Amavi,,,Left-Back,https://www.transfermarkt.com/jordan-amavi/profil/spieler/241229,13,1,-,968'
+19,,"Sep 14, 2005",74,3,4,4685,France,Stade Brestois,"1,85 m","€800k Jun 3, 2025",Justin Bourgault,1,0,Left-Back,https://www.transfermarkt.com/justin-bourgault/profil/spieler/1030153,19,3,2,"1,281'"
+32,,"May 25, 1993",349,28,54,27225,France,Stade Brestois,"1,85 m","€6.00m Jun 3, 2025",Pierre Lees-Melou,,,Defensive Midfield,https://www.transfermarkt.com/pierre-lees-melou/profil/spieler/377393,28,2,3,"2,020'"
+20,Epic Zogbe,"Mar 24, 2005",21,,,1268,d'Ivoire,Stade Brestois,"1,78 m","€2.50m Jun 3, 2025",Luck Zogbé,0,0,Right-Back,https://www.transfermarkt.com/luck-zogbe/profil/spieler/1144999,18,-,-,"1,086'"
+33,S.O.M FOOTBALL,"Oct 3, 1991",455,35,22,37826,France,Stade Brestois,"1,78 m","€2.00m Jun 3, 2025",Kenny Lala,,,Right-Back,https://www.transfermarkt.com/kenny-lala/profil/spieler/174196,40,2,3,"3,496'"
+18,,"Jul 15, 2006",4,,,28,Mali,Stade Brestois,"1,64 m","€300k Jun 3, 2025",Hamidou Makalou,0,0,Defensive Midfield,https://www.transfermarkt.com/hamidou-makalou/profil/spieler/1200289,4,-,-,28'
+35,Wasserman,"Apr 9, 1990",363,17,23,22702,France,Stade Brestois,"1,84 m","€600k Jun 3, 2025",Jonas Martin,1,0,Defensive Midfield,https://www.transfermarkt.com/jonas-martin/profil/spieler/127142,23,-,1,582'
+29,Wasserman,"Apr 15, 1996",361,29,27,23954,Switzerland,Stade Brestois,"1,87 m","€3.00m Jun 3, 2025",Edimilson Fernandes,,,Defensive Midfield,https://www.transfermarkt.com/edimilson-fernandes/profil/spieler/247555,32,1,1,"1,893'"
+26,,"Jun 30, 1998",245,18,27,18524,France,Stade Brestois,"1,78 m","€9.00m Jun 3, 2025",Mahdi Camara,1,0,Central Midfield,https://www.transfermarkt.com/mahdi-camara/profil/spieler/324795,47,5,6,"3,515'"
+26,,"Jul 14, 1998",228,23,40,16326,France,Stade Brestois,"1,80 m","€6.00m Jun 3, 2025",Romain Faivre,,,Right Midfield,https://www.transfermarkt.com/romain-faivre/profil/spieler/555076,32,3,3,"1,493'"
+22,,"Feb 18, 2003",123,14,21,5995,Mali,Stade Brestois,"1,70 m","€4.00m Jun 3, 2025",Kamory Doumbia,19,8,Attacking Midfield,https://www.transfermarkt.com/kamory-doumbia/profil/spieler/671594,44,2,3,"1,938'"
+27,,"May 30, 1998",181,4,7,10993,France,Stade Brestois,"1,80 m","€6.00m Jun 3, 2025",Hugo Magnetti,,,Central Midfield,https://www.transfermarkt.com/hugo-magnetti/profil/spieler/474662,46,1,2,"3,317'"
+24,PSM,"Jun 17, 2001",170,15,58,10105,Senegal,Stade Brestois,"1,88 m","€9.00m Jun 3, 2025",Abdallah Sima,7,0,Left Winger,https://www.transfermarkt.com/abdallah-sima/profil/spieler/776798,40,2,12,"1,927'"
+29,,"Mar 29, 1996",329,59,38,19224,France,Stade Brestois,"1,72 m","€7.00m Jun 3, 2025",Romain Del Castillo,9,0,Right Winger,https://www.transfermarkt.com/romain-del-castillo/profil/spieler/353399,34,5,6,"1,643'"
+28,,"Nov 30, 1996",302,29,41,17445,Portugal,Stade Brestois,"1,80 m","€2.50m Jun 3, 2025",Mathias Pereira Lage,3,0,Left Winger,https://www.transfermarkt.com/mathias-pereira-lage/profil/spieler/424072,,,,
+23,Libera Sports,"Aug 30, 2001",92,3,17,3140,Morocco,Stade Brestois,"1,86 m","€3.00m Jun 3, 2025",Ibrahim Salah,0,0,Left Winger,https://www.transfermarkt.com/ibrahim-salah/profil/spieler/928323,21,1,2,658'
+31,,"Feb 25, 1994",362,33,110,25885,France,Stade Brestois,"1,96 m","€4.00m Jun 3, 2025",Ludovic Ajorque,,,Centre-Forward,https://www.transfermarkt.com/ludovic-ajorque/profil/spieler/283994,43,6,14,"3,366'"
+29,,"Nov 6, 1995",298,28,46,19138,Guinea-Bissau,Stade Brestois,"1,76 m","€4.00m Jun 3, 2025",Mama Baldé,,,Centre-Forward,https://www.transfermarkt.com/mama-balde/profil/spieler/325223,42,4,2,"1,746'"
+32,,"Nov 3, 1992",246,16,,22145,Guiana,AJ Auxerre,"1,87 m","€1.00m Jun 3, 2025",Donovan Léon,37,0,Goalkeeper,https://www.transfermarkt.com/donovan-leon/profil/spieler/170911,32,,,"2,880'"
+24,Kemari,"Feb 2, 2001",54,,,4860,France,AJ Auxerre,"1,85 m","€300k Jun 3, 2025",Théo De Percin,0,0,Goalkeeper,https://www.transfermarkt.com/theo-de-percin/profil/spieler/695422,2,,,180'
+22,,"Apr 13, 2003",53,6,,4678,France,AJ Auxerre,"1,92 m","€50k Jun 3, 2025",Tom Negrel,,,Goalkeeper,https://www.transfermarkt.com/tom-negrel/profil/spieler/866916,15,,,"1,331'"
+24,,"Apr 9, 2001",133,2,4,9546,d'Ivoire,AJ Auxerre,"1,84 m","€5.00m Jun 3, 2025",Sinaly Diomandé,11,0,Centre-Back,https://www.transfermarkt.com/sinaly-diomande/profil/spieler/702441,24,2,3,"2,035'"
+23,PSM,"Nov 24, 2001",125,4,2,9822,d'Ivoire,AJ Auxerre,"1,81 m","€5.00m Jun 3, 2025",Clément Akpa,2,0,Centre-Back,https://www.transfermarkt.com/clement-akpa/profil/spieler/806793,32,1,-,"2,585'"
+34,,"Jul 3, 1990",84,1,,7381,France,AJ Auxerre,"1,79 m","€50k Jun 3, 2025",Raphaël Adiceam,,,Goalkeeper,https://www.transfermarkt.com/raphael-adiceam/profil/spieler/419996,-,,,0'
+26,Wasserman,"Aug 14, 1998",215,3,15,17299,Nigeria,AJ Auxerre,"1,85 m","€3.00m Jun 3, 2025",Gabriel Osho,2,0,Centre-Back,https://www.transfermarkt.com/gabriel-osho/profil/spieler/364409,,,,
+22,Keypass AS,"Aug 7, 2002",138,11,1,9575,Norway,AJ Auxerre,"1,75 m","€600k Jun 3, 2025",Fredrik Oppegård,15,1,Left-Back,https://www.transfermarkt.com/fredrik-oppegard/profil/spieler/539665,19,-,-,833'
+31,LEFT Sports,"Aug 29, 1993",333,6,26,28489,Brazil,AJ Auxerre,"1,90 m","€2.50m Jun 3, 2025",Jubal,4,0,Centre-Back,https://www.transfermarkt.com/jubal/profil/spieler/149928,30,-,6,"2,643'"
+26,,"Jul 18, 1998",224,12,1,17598,Ghana,AJ Auxerre,"1,78 m","€4.00m Jun 3, 2025",Gideon Mensah,,,Left-Back,https://www.transfermarkt.com/gideon-mensah/profil/spieler/397171,29,1,-,"2,284'"
+23,Wasserman,"Jan 18, 2002",178,13,12,12448,Netherlands,AJ Auxerre,"1,83 m","€5.00m Jun 3, 2025",Ki-Jana Hoever,6,1,Right-Back,https://www.transfermarkt.com/ki-jana-hoever/profil/spieler/485583,30,2,1,"2,139'"
+27,LB SPORT & ...,"Sep 20, 1997",293,2,7,17383,Senegal,AJ Auxerre,"1,75 m","€700k Jun 3, 2025",Assane Dioussé,3,0,Defensive Midfield,https://www.transfermarkt.com/assane-diousse/profil/spieler/287635,18,-,-,735'
+25,Concept Sport Agency,"Jun 7, 2000",142,17,3,10395,France,AJ Auxerre,"1,82 m","€1.80m Jun 3, 2025",Paul Joly,,,Right-Back,https://www.transfermarkt.com/paul-joly/profil/spieler/806168,27,1,-,"1,091'"
+27,,"Nov 7, 1997",277,8,3,20659,Ghana,AJ Auxerre,"1,82 m","€3.00m Jun 3, 2025",Elisha Owusu,10,0,Defensive Midfield,https://www.transfermarkt.com/elisha-owusu/profil/spieler/395695,29,3,1,"2,370'"
+21,,"Dec 11, 2003",82,,1,6063,France,AJ Auxerre,"1,75 m","€100k Jun 3, 2025",Ange Loïc N'Gatta,0,0,Right-Back,https://www.transfermarkt.com/ange-loic-ngatta/profil/spieler/855215,15,-,1,951'
+16,,"Aug 30, 2008",29,,10,1474,France,Saint-Étienne,,"€800k Jun 3, 2025",Djylian N'Guessan,11,11,Centre-Forward,https://www.transfermarkt.com/djylian-nguessan/profil/spieler/1200419,16,-,2,567'
+21,,"Feb 29, 2004",66,4,,4960,France,AJ Auxerre,"1,77 m","€100k Jun 3, 2025",Nathan Buayi-Kiala,0,0,Defensive Midfield,https://www.transfermarkt.com/nathan-buayi-kiala/profil/spieler/743523,,,,
+25,,"Sep 4, 1999",168,11,47,10531,Cameroon,Toulouse,"1,78 m","€3.00m Jun 3, 2025",Frank Magri,10,2,Centre-Forward,https://www.transfermarkt.com/frank-magri/profil/spieler/807689,34,1,5,"1,784'"
+28,,"Nov 20, 1996",365,17,43,27338,Switzerland,Monaco,"1,90 m","€30.00m Jun 3, 2025",Denis Zakaria,,,Defensive Midfield,https://www.transfermarkt.com/denis-zakaria/profil/spieler/334526,34,4,7,"2,852'"
+30,,"Dec 22, 1994",283,3,14,23126,France,Stade Brestois,"1,81 m","€6.00m Jun 3, 2025",Brendan Chardonnet,,,Centre-Back,https://www.transfermarkt.com/brendan-chardonnet/profil/spieler/250779,39,1,2,"3,497'"
+37,Sport Cover,"Sep 19, 1987",470,12,17,39942,France,FC Nantes,"1,89 m","€400k Jun 3, 2025",Nicolas Pallois,,,Centre-Back,https://www.transfermarkt.com/nicolas-pallois/profil/spieler/139279,27,3,-,"2,110'"
+26,One Team Football,"Jul 1, 1998",238,9,5,17326,France,Saint-Étienne,"1,85 m","€2.00m Jun 3, 2025",Maxime Bernauer,4,0,Centre-Back,https://www.transfermarkt.com/maxime-bernauer/profil/spieler/324819,,,,
